@@ -1,0 +1,733 @@
+﻿country,company,title,location,role_category,posted_at,url
+DE,&effect,Junior Data Engineer / Data Scientist (m/w/d),"Prenzlauer Berg, Berlin",data_engineer,2026-05-12T22:40:53Z,https://www.adzuna.de/details/5727211826?utm_medium=api&utm_source=8c0e11bf
+DE,1&1 Versatel GmbH,Network Engineer Data Services - CPE & Secruity (w/m/d),"Essen, Nordrhein-Westfalen",data_engineer,2026-05-25T16:58:42Z,https://www.adzuna.de/land/ad/5740491824?se=jGlTRPFb8RG1g60cORqbZQ&utm_medium=api&utm_source=8c0e11bf&v=55D68F7ADBB90969E3C0802DDFC4371131C142D3
+DE,50Hertz Transmission GmbH,Domain Data Engineer - Power Grid & System Operations (w/m/d),"Berlin, Deutschland",data_engineer,2026-05-04T14:53:12Z,https://www.adzuna.de/details/5718589928?utm_medium=api&utm_source=8c0e11bf
+DE,50Hertz Transmission GmbH,Wirtschaftsingenieurin als Domain Data Engineer - Machine-Learning-Lifecycle Energiewende (w/m/d),"Neuenhagen bei Berlin, Märkisch-Oderland (Kreis)",data_engineer,2026-05-11T19:05:01Z,https://www.adzuna.de/details/5725936352?utm_medium=api&utm_source=8c0e11bf
+DE,50Hertz Transmission GmbH,Ingenieur Regenerative / Erneuerbare Energien als Domain Data Engineer - Datenintegrationsprozesse Stromnetz (w/m/d),"Neuenhagen bei Berlin, Märkisch-Oderland (Kreis)",data_engineer,2026-05-11T19:05:00Z,https://www.adzuna.de/details/5725936331?utm_medium=api&utm_source=8c0e11bf
+DE,50Hertz Transmission GmbH,Ingenieur Energietechnik als Domain Data Engineer - Next Generation Control Center Ecosystem (w/m/d),"Neuenhagen bei Berlin, Märkisch-Oderland (Kreis)",data_engineer,2026-05-11T19:05:00Z,https://www.adzuna.de/details/5725936295?utm_medium=api&utm_source=8c0e11bf
+DE,50Hertz Transmission GmbH,Wirtschaftsingenieurin als Domain Data Engineer - Machine-Learning-Lifecycle Energiewende (w/m/d),"Berlin, Deutschland",ml_engineer,2026-05-11T19:05:00Z,https://www.adzuna.de/details/5725936322?utm_medium=api&utm_source=8c0e11bf
+DE,ABEL Mobilfunk & Co. KG,Data Engineer (m/w/d),"Engelsberg, Traunstein (Kreis)",data_engineer,2026-03-27T21:24:11Z,https://www.adzuna.de/details/5680545932?utm_medium=api&utm_source=8c0e11bf
+DE,ALDI Einkauf SE & Co. oHG,Data Quality Manager (m/w/d),"Essen, Nordrhein-Westfalen",data_engineer,2026-05-29T17:01:58Z,https://www.adzuna.de/land/ad/5744677021?se=Zl9YR_Fb8RGaPdXc_hgVAA&utm_medium=api&utm_source=8c0e11bf&v=017339749D0E49F0F1D9728575301DAEE6304A8D
+DE,"AMAZONEN-Werke H. Dreyer SE & Co. KG, Werk Hude",Data Engineer (m/w/d),"Hasbergen, Osnabrück (Kreis)",data_engineer,2026-04-10T10:19:25Z,https://www.adzuna.de/details/5695414271?utm_medium=api&utm_source=8c0e11bf
+DE,"AMAZONEN-Werke H. Dreyer SE & Co. KG, Werk Hude",Data Engineer (m/w/d),"Farge, Bremen",data_engineer,2026-04-10T10:19:11Z,https://www.adzuna.de/details/5695414174?utm_medium=api&utm_source=8c0e11bf
+DE,ATCSIM GmbH,Software-Entwickler Machine Learning (m/w/d),"Kaufbeuren, Kaufbeuren (Kreis)",ml_engineer,2026-05-23T12:31:15Z,https://www.adzuna.de/land/ad/5738681108?se=JFovU_Fb8RGUJNJexxfy6Q&utm_medium=api&utm_source=8c0e11bf&v=AA0FFABCC4670197BC19C8AF628EDF94E8CF2C87
+DE,ATCSIM GmbH,Software-Entwickler Machine Learning (m/w/d),"Kaufbeuren, Kaufbeuren (Kreis)",ml_engineer,2026-05-24T22:16:13Z,https://www.adzuna.de/land/ad/5739903636?se=JFovU_Fb8RGUJNJexxfy6Q&utm_medium=api&utm_source=8c0e11bf&v=EED284C77CF70BD85EF32922114DC1AF56A0D238
+DE,AWS EMEA SARL ,"Applied Science Manager, AWS Generative AI Innovation Center","Berlin, Deutschland",ml_engineer,2026-04-23T02:23:54Z,https://www.adzuna.de/details/5707719129?utm_medium=api&utm_source=8c0e11bf
+DE,Adragos Pharma GmbH,Data Engineer (m/f/d),"Altstadt-Lehel, München",data_engineer,2026-05-13T10:38:49Z,https://www.adzuna.de/details/5727869386?utm_medium=api&utm_source=8c0e11bf
+DE,Aenova Holding,Data Engineer (w/m/d) - Data Vault,"Seewiesen, Starnberg (Kreis)",data_engineer,2026-04-09T23:22:19Z,https://www.adzuna.de/details/5694907024?utm_medium=api&utm_source=8c0e11bf
+DE,Agile Robots SE,Software Engineer (m/f/d) Robotics Research Tooling & Reliability,Deutschland,ml_engineer,2026-05-12T22:56:17Z,https://www.adzuna.de/details/5727296398?utm_medium=api&utm_source=8c0e11bf
+DE,Agile Robots SE,Software Engineer (m/f/d) Robotics Research Tooling & Reliability,"Sendling, München",ml_engineer,2026-03-07T08:58:16Z,https://www.adzuna.de/details/5657284824?utm_medium=api&utm_source=8c0e11bf
+DE,Ailoys GmbH,ML Engineer,"Mitte, Berlin",ml_engineer,2025-01-20T01:16:46Z,https://www.adzuna.de/details/5017015891?utm_medium=api&utm_source=8c0e11bf
+DE,Air Apps,Data Engineer,"München, München (Kreis)",data_engineer,2026-04-29T22:32:47Z,https://www.adzuna.de/details/5713864940?utm_medium=api&utm_source=8c0e11bf
+DE,Air Apps,Data Engineer,Deutschland,data_engineer,2026-04-17T23:01:34Z,https://www.adzuna.de/details/5702961084?utm_medium=api&utm_source=8c0e11bf
+DE,Air Apps,AI Product Manager,"München, München (Kreis)",ml_engineer,2026-04-29T22:36:49Z,https://www.adzuna.de/details/5713877325?utm_medium=api&utm_source=8c0e11bf
+DE,Air Apps,"AI Product Manager, Berlin",Deutschland,ml_engineer,2026-04-17T22:45:44Z,https://www.adzuna.de/details/5702941937?utm_medium=api&utm_source=8c0e11bf
+DE,Air Apps,AI/ML Engineer,"München, München (Kreis)",ml_engineer,2026-04-30T23:16:16Z,https://www.adzuna.de/details/5714849757?utm_medium=api&utm_source=8c0e11bf
+DE,Air Apps,"AI/ML Engineer, Berlin",Deutschland,ml_engineer,2026-04-17T23:14:12Z,https://www.adzuna.de/details/5702968002?utm_medium=api&utm_source=8c0e11bf
+DE,Akka Technologies,Data Engineer (m/w/d),"Haar, München (Kreis)",data_engineer,2025-02-24T18:12:56Z,https://www.adzuna.de/details/5062248763?utm_medium=api&utm_source=8c0e11bf
+DE,All4Golf,Data Engineer (m/w/d),"Brink-Hafen, Hannover",data_engineer,2026-05-12T22:35:16Z,https://www.adzuna.de/details/5727149966?utm_medium=api&utm_source=8c0e11bf
+DE,Allianz Global Investors GmbH,Data Engineer (f/m/d),"Westend-Nord, Frankfurt am Main",data_engineer,2026-02-21T13:46:37Z,https://www.adzuna.de/details/5639812712?utm_medium=api&utm_source=8c0e11bf
+DE,Allianz Global Investors GmbH,Data Engineer (f/m/d),"Altstadt-Lehel, München",data_engineer,2026-02-21T13:46:37Z,https://www.adzuna.de/details/5639812711?utm_medium=api&utm_source=8c0e11bf
+DE,Almedia,Data Engineer,"Berlin, Deutschland",data_engineer,2025-10-24T14:58:58Z,https://www.adzuna.de/details/5462548223?utm_medium=api&utm_source=8c0e11bf
+DE,Almedia,Machine Learning Engineer,"Berlin, Deutschland",ml_engineer,2025-12-11T20:28:23Z,https://www.adzuna.de/details/5538325030?utm_medium=api&utm_source=8c0e11bf
+DE,Almedia,MLOps Engineer,"Berlin, Deutschland",ml_engineer,2026-04-11T22:42:45Z,https://www.adzuna.de/details/5696990174?utm_medium=api&utm_source=8c0e11bf
+DE,Amazon,"Software Dev Engineer Intern Machine Learning, Amazon Robotics","Berlin, Deutschland",ml_engineer,2026-05-10T07:16:22Z,https://www.adzuna.de/land/ad/5724909189?se=JFovU_Fb8RGUJNJexxfy6Q&utm_medium=api&utm_source=8c0e11bf&v=CED3A014DC949393354BB8381FB21E4D7AC881E3
+DE,Amazon,"Software Dev Engineer Intern Machine Learning, Amazon Robotics","Berlin, Deutschland",ml_engineer,2026-05-12T06:22:53Z,https://www.adzuna.de/details/5726477601?utm_medium=api&utm_source=8c0e11bf
+DE,Amazon,"Robotics Software Engineer, Amazon Robotics R&D","Berlin, Deutschland",ml_engineer,2026-05-29T02:56:01Z,https://www.adzuna.de/details/5744066112?utm_medium=api&utm_source=8c0e11bf
+DE,Amazon,"Robotics Software Engineer, Amazon Robotics R&D","Berlin, Deutschland",ml_engineer,2026-05-29T02:56:01Z,https://www.adzuna.de/details/5744066110?utm_medium=api&utm_source=8c0e11bf
+DE,Amazon,"Applied Scientist, Amazon Robotics R&D",Deutschland,ml_engineer,2026-05-29T23:05:26Z,https://www.adzuna.de/details/5744955664?utm_medium=api&utm_source=8c0e11bf
+DE,Amazon,"Applied Science Manager, AWS Generative AI Innovation Center","München, München (Kreis)",ml_engineer,2026-04-24T07:06:18Z,https://www.adzuna.de/land/ad/5709107590?se=uuJaVPFb8RGbGvW-bcCcHA&utm_medium=api&utm_source=8c0e11bf&v=C09BF368D1841668767FE4111A8DA4EB32BDA339
+DE,Amazon,"Applied Science Manager, AWS Generative AI Innovation Center","Berlin, Deutschland",ml_engineer,2026-04-24T07:06:18Z,https://www.adzuna.de/land/ad/5709107588?se=uuJaVPFb8RGbGvW-bcCcHA&utm_medium=api&utm_source=8c0e11bf&v=6F25BDE519AB428181EB36EAE17DCAEE5C867291
+DE,Amazon,"Applied Science Manager, AWS Generative AI Innovation Center","Berlin, Deutschland",ml_engineer,2026-04-25T05:51:38Z,https://www.adzuna.de/details/5710007644?utm_medium=api&utm_source=8c0e11bf
+DE,Amazon,"Applied Science Manager, AWS Generative AI Innovation Center","München, München (Kreis)",ml_engineer,2026-04-25T05:51:38Z,https://www.adzuna.de/details/5710007658?utm_medium=api&utm_source=8c0e11bf
+DE,Amazon Development Center Germany GmbH,"Software Dev Engineer Intern Machine Learning, Amazon Robotics","Berlin, Deutschland",ml_engineer,2026-05-09T02:39:12Z,https://www.adzuna.de/details/5723606054?utm_medium=api&utm_source=8c0e11bf
+DE,Amazon Development Center Germany GmbH,"Applied Scientist, Amazon Robotics R&D","Berlin, Deutschland",ml_engineer,2026-05-29T03:00:07Z,https://www.adzuna.de/details/5744068941?utm_medium=api&utm_source=8c0e11bf
+DE,Amazon Development Center Germany GmbH,"Robotics Software Engineer, Amazon Robotics R&D","Berlin, Deutschland",ml_engineer,2026-05-29T03:00:08Z,https://www.adzuna.de/details/5744068952?utm_medium=api&utm_source=8c0e11bf
+DE,Apheris,Director of ML Research – AI Applications,"Friedenau, Berlin",ml_engineer,2026-05-12T22:34:26Z,https://www.adzuna.de/details/5727139825?utm_medium=api&utm_source=8c0e11bf
+DE,Applied Intuition,Machine Learning Software Engineer,"Stuttgart, Baden-Württemberg",ml_engineer,2025-10-26T14:30:18Z,https://www.adzuna.de/details/5465339615?utm_medium=api&utm_source=8c0e11bf
+DE,Applied Intuition,Software Engineer - Embedded Systems,"Stuttgart, Baden-Württemberg",ml_engineer,2026-05-09T22:56:45Z,https://www.adzuna.de/details/5724540394?utm_medium=api&utm_source=8c0e11bf
+DE,Assecor GmbH,IT-Consultant Data Engineering (m/w/d),Berlin,data_engineer,2026-05-22T10:00:45+00:00,https://www.arbeitnow.com/jobs/companies/assecor-gmbh/it-consultant-data-engineering-berlin-328269
+DE,Atos,Data Engineer (m/w/d),"Kernstadt, Paderborn",data_engineer,2025-02-24T18:13:00Z,https://www.adzuna.de/details/5062249241?utm_medium=api&utm_source=8c0e11bf
+DE,Atos,Junior Data Engineer (m/w/d),"Kernstadt, Paderborn",data_engineer,2024-02-09T11:07:54Z,https://www.adzuna.de/details/4563362554?utm_medium=api&utm_source=8c0e11bf
+DE,Atruvia,Data Engineer (m/w/d) | DSIANA,"Karlsruhe (Kreis), Baden-Württemberg",data_engineer,2025-11-30T19:32:57Z,https://www.adzuna.de/details/5520446324?utm_medium=api&utm_source=8c0e11bf
+DE,Autonomous Teaming,Junior Robotics Infrastructure Engineer (m/f/d) - CI/CD & Build Systems,Deutschland,ml_engineer,2026-05-26T23:05:01Z,https://www.adzuna.de/details/5741608187?utm_medium=api&utm_source=8c0e11bf
+DE,Avacon,Data Engineer - Energy Networks (w/d/m) - Inklusiver Job   ,"Salzgitter, Niedersachsen",data_engineer,2026-05-22T08:41:09Z,https://www.adzuna.de/land/ad/5737372769?se=jGlTRPFb8RG1g60cORqbZQ&utm_medium=api&utm_source=8c0e11bf&v=779C6064B45C3FC3B41A9725449FD144C9401250
+DE,Avacon Netz GmbH,Data Engineer - Energy Networks (w/d/m),"Salzgitter, Niedersachsen",data_engineer,2026-05-21T21:16:12Z,https://www.adzuna.de/details/5736668636?utm_medium=api&utm_source=8c0e11bf
+DE,Avacon Netz GmbH,Data Engineer Energy Networks - Entwicklung & Weiterentwicklung - Energieversorgung (w/d/m),"Sarstedt, Hildesheim (Kreis)",data_engineer,2026-05-28T15:39:33Z,https://www.adzuna.de/details/5743544347?utm_medium=api&utm_source=8c0e11bf
+DE,Avacon Netz GmbH,Informatiker als Data Engineer - Analyse & Entwicklung - Asset-Management (w/d/m),"Hannover, Region Hannover (Kreis)",data_engineer,2026-05-28T15:39:33Z,https://www.adzuna.de/details/5743544353?utm_medium=api&utm_source=8c0e11bf
+DE,Avantgarde Labs,Data Engineer ETL (w/m/d),"Äußere Neustadt, Dresden",data_engineer,2026-05-23T23:08:56Z,https://www.adzuna.de/details/5739174321?utm_medium=api&utm_source=8c0e11bf
+DE,Avelios Medical,Machine Learning Engineer (all genders),Deutschland,ml_engineer,2026-02-18T22:31:49Z,https://www.adzuna.de/details/5635223052?utm_medium=api&utm_source=8c0e11bf
+DE,BG Kliniken,Data Engineer (m/w/d) - Klinisches Forschungsdatenmanagement - Inklusiver Job   ,"Bochum, Nordrhein-Westfalen",data_engineer,2026-05-23T19:57:26Z,https://www.adzuna.de/land/ad/5738953074?se=jGlTRPFb8RG1g60cORqbZQ&utm_medium=api&utm_source=8c0e11bf&v=2579BCC8619EC57F5A7630FAEEA460D1EFF9BE89
+DE,Bartels-Langness Handelsgesellschaft mbH & Co. KG,Data Engineer (m/w/d),"Schreventeich, Kiel",data_engineer,2026-05-06T18:52:44Z,https://www.adzuna.de/details/5720642181?utm_medium=api&utm_source=8c0e11bf
+DE,Bees & Bears GmbH,Data Engineer (m/f/d) – Berlin,"Mitte, Berlin",data_engineer,2026-05-14T10:42:47Z,https://www.adzuna.de/details/5729015871?utm_medium=api&utm_source=8c0e11bf
+DE,Beroe x nnamu,ML-QA Engineer,"Altstadt-Lehel, München",ml_engineer,2026-05-12T23:33:40Z,https://www.adzuna.de/details/5727351274?utm_medium=api&utm_source=8c0e11bf
+DE,Bliq,Autonomous Driving Engineer – Next Generation AV Systems (m/f/d),"Britz, Berlin",ml_engineer,2026-05-12T22:54:35Z,https://www.adzuna.de/details/5727294399?utm_medium=api&utm_source=8c0e11bf
+DE,Booz Allen Hamilton,Data Engineer,Deutschland,data_engineer,2026-04-22T22:29:52Z,https://www.adzuna.de/details/5707466798?utm_medium=api&utm_source=8c0e11bf
+DE,Booz Allen Hamilton,Data Engineer,Deutschland,data_engineer,2026-05-21T23:11:42Z,https://www.adzuna.de/details/5736939053?utm_medium=api&utm_source=8c0e11bf
+DE,Booz Allen Hamilton,Data Engineer,Deutschland,data_engineer,2026-05-28T23:15:02Z,https://www.adzuna.de/details/5743939932?utm_medium=api&utm_source=8c0e11bf
+DE,Bosch Group,Werkstudent Data Science mit Schwerpunkt Bildverarbeitung (w/m/div.),"Bamberg, Bamberg (Kreis)",ml_engineer,2026-05-21T12:25:31Z,https://www.adzuna.de/details/5736331904?utm_medium=api&utm_source=8c0e11bf
+DE,Bosch Rexroth,Bachelor of Science Studiengang Data Science und Künstliche Intelligenz (w/m/div.),"Lohr am Main, Main-Spessart (Kreis)",ml_engineer,2025-10-30T11:55:32Z,https://www.adzuna.de/details/5470868308?utm_medium=api&utm_source=8c0e11bf
+DE,CGM,Data Engineer BI (m/w/d),"Idstein, Rheingau-Taunus-Kreis",data_engineer,2026-05-27T11:42:04Z,https://www.adzuna.de/land/ad/5742115011?se=jGlTRPFb8RG1g60cORqbZQ&utm_medium=api&utm_source=8c0e11bf&v=AB058E07FDC29528450A95120A0B9FD7EA7F1E9B
+DE,COM,Data Engineer (m/w/d),"Eschborn, Main-Taunus-Kreis",data_engineer,2024-11-08T12:44:03Z,https://www.adzuna.de/details/4931249258?utm_medium=api&utm_source=8c0e11bf
+DE,Carbmee,Data & AI Consultant (All Levels)| Carbmee,"Mitte, Berlin",ml_engineer,2026-05-12T23:04:11Z,https://www.adzuna.de/details/5727312405?utm_medium=api&utm_source=8c0e11bf
+DE,Cerpro GmbH,Computer Vision Engineer (m/w/d),Berlin,data_engineer,2026-05-23T08:30:43+00:00,https://www.arbeitnow.com/jobs/companies/cerpro-gmbh/computer-vision-engineer-berlin-256033
+DE,Chrono24,Junior Data Engineer (m/w/d),"Hagsfeld, Karlsruhe",data_engineer,2026-05-12T23:33:42Z,https://www.adzuna.de/details/5727351309?utm_medium=api&utm_source=8c0e11bf
+DE,Circula,AI/ML Engineer (f/m/d),"Mitte, Berlin",ml_engineer,2026-05-12T22:46:45Z,https://www.adzuna.de/details/5727270730?utm_medium=api&utm_source=8c0e11bf
+DE,CodeCamp:N,Data Engineer (m/w/d),"Doos, Nürnberg",data_engineer,2026-05-12T23:28:21Z,https://www.adzuna.de/details/5727345977?utm_medium=api&utm_source=8c0e11bf
+DE,Collaboration Betters The World,Data Engineer (m/w/d),Deutschland,data_engineer,2024-06-07T15:05:58Z,https://www.adzuna.de/details/4725930722?utm_medium=api&utm_source=8c0e11bf
+DE,Collaboration Betters The World,ML Engineer (m/w/d),Deutschland,ml_engineer,2024-06-07T15:05:58Z,https://www.adzuna.de/details/4725930725?utm_medium=api&utm_source=8c0e11bf
+DE,Collective.work,AI & Machine Learning Engineer – Sensor Fusion & Situational Awareness - 2279 - Permanent,"Altstadt-Lehel, München",ml_engineer,2026-04-14T03:45:40Z,https://www.adzuna.de/details/5698582069?utm_medium=api&utm_source=8c0e11bf
+DE,CompuGroup Medical,Data Engineer BI (m/w/d),Deutschland,data_engineer,2026-05-10T23:26:31Z,https://www.adzuna.de/details/5725411361?utm_medium=api&utm_source=8c0e11bf
+DE,Conxai Technologies GmbH,Technical Product Manager (Agentic AI),"Moosach, München",ml_engineer,2026-03-31T22:55:32Z,https://www.adzuna.de/details/5684484752?utm_medium=api&utm_source=8c0e11bf
+DE,Corning Incorporated,Working Student Software Engineer (Automation & ML) (m/f/d),"Berlin, Deutschland",ml_engineer,2026-04-24T07:06:28Z,https://www.adzuna.de/land/ad/5709107698?se=bO0HWfFb8RGUJNJexxfy6Q&utm_medium=api&utm_source=8c0e11bf&v=E1989A7A05CAAADBF56216119BDC8217DA5F5503
+DE,Corning Incorporated,Working Student Software Engineer (Automation & ML) (m/f/d),"Berlin, Deutschland",ml_engineer,2026-04-25T05:51:38Z,https://www.adzuna.de/details/5710007628?utm_medium=api&utm_source=8c0e11bf
+DE,Creditplus Bank AG,Data Engineer (m/w/d),"Mitte, Stuttgart",data_engineer,2026-04-11T23:25:38Z,https://www.adzuna.de/details/5697023514?utm_medium=api&utm_source=8c0e11bf
+DE,DACHSER SE,Data Warehouse Engineer (m/w/d) Business Intelligence - Inklusiver Job   ,"Kempten (Allgäu), Bayern",data_engineer,2026-05-23T03:51:34Z,https://www.adzuna.de/land/ad/5738294235?se=et2mSPFb8RG1g60cORqbZQ&utm_medium=api&utm_source=8c0e11bf&v=81AE2C56551DEE638CAD5CFC676164EFF019EA5B
+DE,DENIC eG,Data Engineer - DevOps (m/w/d),"Sachsenhausen, Frankfurt am Main",data_engineer,2026-05-04T19:57:58Z,https://www.adzuna.de/details/5718708811?utm_medium=api&utm_source=8c0e11bf
+DE,DENIC eG,Mathematiker als Data Engineer (m/w/d),"Sachsenhausen, Frankfurt am Main",data_engineer,2026-05-04T19:57:58Z,https://www.adzuna.de/details/5718708816?utm_medium=api&utm_source=8c0e11bf
+DE,DJE Kapital AG,Data Engineer (m/w/d),"Großhesselohe, München (Kreis)",data_engineer,2026-05-12T22:35:14Z,https://www.adzuna.de/details/5727149785?utm_medium=api&utm_source=8c0e11bf
+DE,DJE Kapital AG,Data Engineer (m/w/d),"Großhesselohe, München (Kreis)",data_engineer,2026-04-24T10:31:29Z,https://www.adzuna.de/details/5709217363?utm_medium=api&utm_source=8c0e11bf
+DE,Dataiku,Data Engineer,Deutschland,data_engineer,2026-04-19T22:39:29Z,https://www.adzuna.de/details/5704774636?utm_medium=api&utm_source=8c0e11bf
+DE,Deel,Data Engineer,Deutschland,data_engineer,2026-04-16T22:57:39Z,https://www.adzuna.de/details/5701862886?utm_medium=api&utm_source=8c0e11bf
+DE,Delphi HR-Consulting GmbH,Azure Data & Integration Engineer (m/w/d),"Harvestehude, Hamburg",data_engineer,2026-05-27T23:37:50Z,https://www.adzuna.de/land/ad/5742721045?se=jGlTRPFb8RG1g60cORqbZQ&utm_medium=api&utm_source=8c0e11bf&v=74468FE74BA063E9FBD9B6A5824313E1703A9C2B
+DE,Dr. Dienst & Partner,AI & Data Operations Engineer (m/w/d),"Gallus, Frankfurt am Main",data_engineer,2026-05-19T17:09:02Z,https://www.adzuna.de/land/ad/5734121379?se=jGlTRPFb8RG1g60cORqbZQ&utm_medium=api&utm_source=8c0e11bf&v=A69950EAD78842CE3F5C3C8A17CE199EB4E1F95C
+DE,Dr. Dienst & Partner,AI & Data Operations Engineer (m/w/d),"Goldgrube, Koblenz",data_engineer,2026-05-22T17:18:48Z,https://www.adzuna.de/land/ad/5737723269?se=jGlTRPFb8RG1g60cORqbZQ&utm_medium=api&utm_source=8c0e11bf&v=05EB3EBB9FA452963A15EC9EBA677564A9481FC6
+DE,Dunia Innovations,"ML Engineer, Agents & Reasoning","Berlin, Deutschland",ml_engineer,2026-05-12T22:28:57Z,https://www.adzuna.de/details/5727095595?utm_medium=api&utm_source=8c0e11bf
+DE,Dunia Innovations,Chemical Data Scientist,"Berlin, Deutschland",ml_engineer,2026-05-12T22:54:51Z,https://www.adzuna.de/details/5727294677?utm_medium=api&utm_source=8c0e11bf
+DE,Dunia Innovations GmbH,"ML Engineer, Agents & Reasoning","Adlershof, Berlin",ml_engineer,2026-02-07T07:43:01Z,https://www.adzuna.de/details/5618738627?utm_medium=api&utm_source=8c0e11bf
+DE,Dunia Innovations GmbH,Chemical Data Scientist,"Adlershof, Berlin",ml_engineer,2026-02-05T07:53:58Z,https://www.adzuna.de/details/5615347790?utm_medium=api&utm_source=8c0e11bf
+DE,Dymatrix,(Junior) Cloud Data Engineer (all genders),"Mitte, Stuttgart",data_engineer,2026-05-26T22:53:56Z,https://www.adzuna.de/details/5741527100?utm_medium=api&utm_source=8c0e11bf
+DE,EDEKA IT Stiftung & Co. OHG,Data Engineer Datenplattform (m/w/d),"Alsterdorf, Hamburg",data_engineer,2026-02-05T07:48:50Z,https://www.adzuna.de/details/5615334181?utm_medium=api&utm_source=8c0e11bf
+DE,EFW – Elbe Flugzeugwerke GmbH,IT-Data Engineer (w/m/d),"Dresden, Sachsen",data_engineer,2026-04-01T16:25:57Z,https://www.adzuna.de/details/5685687417?utm_medium=api&utm_source=8c0e11bf
+DE,ENERCON,ML Ops Engineer (m/w/d),"Aurich, Aurich (Kreis)",ml_engineer,2026-05-28T18:24:55Z,https://www.adzuna.de/details/5743613389?utm_medium=api&utm_source=8c0e11bf
+DE,ENERCON,ML Ops Engineer (m/f/d),"Aurich, Aurich (Kreis)",ml_engineer,2026-05-28T18:24:55Z,https://www.adzuna.de/details/5743613394?utm_medium=api&utm_source=8c0e11bf
+DE,ENERCON GmbH,ML Ops Engineer (m/w/d) - Inklusiver Job   ,Deutschland,ml_engineer,2026-04-24T19:08:10Z,https://www.adzuna.de/land/ad/5709452563?se=yGO0V_Fb8RGbGvW-bcCcHA&utm_medium=api&utm_source=8c0e11bf&v=10643ACBA6FB59C6B47F401FBF862B1AA8B2A73E
+DE,ENERCON GmbH,ML Ops Engineer (m/f/d) - Inklusiver Job   ,Deutschland,ml_engineer,2026-04-24T19:08:14Z,https://www.adzuna.de/land/ad/5709452572?se=yGO0V_Fb8RGbGvW-bcCcHA&utm_medium=api&utm_source=8c0e11bf&v=28A0FAC166D1FCA495BFDAADAB909DF169911FE4
+DE,FERCHAU Austria GmbH,Machine Learning Engineer (m/w/d),Deutschland,ml_engineer,2025-11-11T23:45:50Z,https://www.adzuna.de/details/5491221674?utm_medium=api&utm_source=8c0e11bf
+DE,FERCHAU GmbH,Data Engineer (m/w/d),"Engelsberg, Traunstein (Kreis)",data_engineer,2026-03-31T06:16:27Z,https://www.adzuna.de/details/5683828860?utm_medium=api&utm_source=8c0e11bf
+DE,FERCHAU GmbH,Data Engineer (m/w/d),"Gmund am Tegernsee, Miesbach (Kreis)",data_engineer,2026-04-11T06:16:54Z,https://www.adzuna.de/details/5696353155?utm_medium=api&utm_source=8c0e11bf
+DE,FERCHAU GmbH,Data Engineer (m/w/d),"Bocklemünd/Mengenich, Köln",data_engineer,2025-07-23T02:57:49Z,https://www.adzuna.de/details/5317425104?utm_medium=api&utm_source=8c0e11bf
+DE,FERCHAU GmbH,Big Data Engineer (m/w/d),"Zentrum, Leipzig",data_engineer,2026-01-01T04:24:20Z,https://www.adzuna.de/details/5561959829?utm_medium=api&utm_source=8c0e11bf
+DE,Fin,"Engineering Manager, AI Models Infrastructure",Deutschland,ml_engineer,2026-04-17T22:24:11Z,https://www.adzuna.de/details/5702810369?utm_medium=api&utm_source=8c0e11bf
+DE,Fin,"Engineering Manager, AI Models Infrastructure","Berlin, Deutschland",ml_engineer,2026-04-17T22:50:01Z,https://www.adzuna.de/details/5702950439?utm_medium=api&utm_source=8c0e11bf
+DE,Fin,"Engineering Manager, AI Models Infrastructure","Berlin, Deutschland",ml_engineer,2026-04-10T22:32:11Z,https://www.adzuna.de/details/5695959421?utm_medium=api&utm_source=8c0e11bf
+DE,Frankfurter Allgemeine Zeitung GmbH ,(Junior) Data Engineer (m/w/d),"Altstadt, Frankfurt am Main",data_engineer,2026-05-13T02:29:49Z,https://www.adzuna.de/details/5727444581?utm_medium=api&utm_source=8c0e11bf
+DE,Freenow,AI Engineer (Enablement),"Berlin, Deutschland",ml_engineer,2026-05-22T23:24:29Z,https://www.adzuna.de/details/5738078751?utm_medium=api&utm_source=8c0e11bf
+DE,Freenow,AI Engineer (Enablement),Deutschland,ml_engineer,2026-05-22T23:05:55Z,https://www.adzuna.de/details/5738067818?utm_medium=api&utm_source=8c0e11bf
+DE,FullStack Talents,"AI / ML / Generative AI Engineers & Specialists (Remote, Ongoing Search, Talent Pool)",Deutschland,ml_engineer,2026-05-22T22:51:09Z,https://www.adzuna.de/details/5738037925?utm_medium=api&utm_source=8c0e11bf
+DE,"GMX, WEB.DE & mail.com",Data Engineer – Business Intelligence (BI) (f/m/d),"Karlsruhe, Karlsruhe (Kreis)",data_engineer,2026-04-21T04:28:58Z,https://www.adzuna.de/land/ad/5705705266?se=jGlTRPFb8RG1g60cORqbZQ&utm_medium=api&utm_source=8c0e11bf&v=E3A56E7C20931BDE4CAEDF6BEAC3E8FDC6774E6F
+DE,GUS Group,AI / ML Platform Engineer (m/w/d),"Hammerbrook, Hamburg",ml_engineer,2026-05-12T23:35:10Z,https://www.adzuna.de/details/5727352630?utm_medium=api&utm_source=8c0e11bf
+DE,Gini,Machine Learning Werkstudent/Praktikum (m/w/d),"Ludwigsvorstadt-Isarvorstadt, München",ml_engineer,2026-05-12T23:05:51Z,https://www.adzuna.de/details/5727316107?utm_medium=api&utm_source=8c0e11bf
+DE,GlobalFoundries,Machine Learning Engineer for Digital Manufacturing,Deutschland,ml_engineer,2026-05-21T23:17:17Z,https://www.adzuna.de/details/5736941117?utm_medium=api&utm_source=8c0e11bf
+DE,GlobalFoundries Management Services GmbH & Co. KG von MINTbund.de,Machine Learning Engineer for Digital Manufacturing in Dresden,"Dresden, Sachsen",ml_engineer,2026-05-20T03:53:59Z,https://www.adzuna.de/details/5734683098?utm_medium=api&utm_source=8c0e11bf
+DE,Goodgame Studios,Working Student AI Data/Machine Learning Engineer,"Altona-Altstadt, Hamburg",ml_engineer,2026-05-26T22:32:17Z,https://www.adzuna.de/details/5741440094?utm_medium=api&utm_source=8c0e11bf
+DE,Google,"Forward Deployed Engineering Manager II, Generative AI, Google Cloud","München, München (Kreis)",ml_engineer,2026-05-17T07:22:57Z,https://www.adzuna.de/land/ad/5732180100?se=7oNSWvFb8RGobtSHcEIOiA&utm_medium=api&utm_source=8c0e11bf&v=2A43C3F2838A9E34CC3AFF23DD9856863737C21E
+DE,Google,"Forward Deployed Engineering Manager II, Generative AI, Google Cloud","München, München (Kreis)",ml_engineer,2026-05-19T06:28:36Z,https://www.adzuna.de/details/5733736498?utm_medium=api&utm_source=8c0e11bf
+DE,Greifenberg Personalberatung & Recruitment,Data Engineer ETL/ELT (gn),"Bruchsal, Karlsruhe (Kreis)",data_engineer,2026-04-16T05:40:21Z,https://www.adzuna.de/details/5701006759?utm_medium=api&utm_source=8c0e11bf
+DE,HELUKABEL GmbH,Data Integration Engineer für Azure-Plattformen (m/w/d),"Hemmingen, Ludwigsburg (Kreis)",data_engineer,2026-04-09T16:55:39Z,https://www.adzuna.de/details/5694596712?utm_medium=api&utm_source=8c0e11bf
+DE,HELUKABEL GmbH,Data Integration Engineer Azure Fabric (m/w/d),"Hemmingen, Ludwigsburg (Kreis)",data_engineer,2026-04-22T12:05:37Z,https://www.adzuna.de/details/5707029321?utm_medium=api&utm_source=8c0e11bf
+DE,HOCHTIEF Data Center Partner GmbH,Commissioning Engineer Data Center (m/w/d),"Essen, Nordrhein-Westfalen",data_engineer,2026-05-21T16:52:52Z,https://www.adzuna.de/land/ad/5736524453?se=jGlTRPFb8RG1g60cORqbZQ&utm_medium=api&utm_source=8c0e11bf&v=EFB1481BE096F14A5A3B97398208CDBA182B4970
+DE,HUK COBURG,Data Scientist (w/m/d),"Coburg (Kreis), Bayern",ml_engineer,2026-05-26T23:11:12Z,https://www.adzuna.de/details/5741616219?utm_medium=api&utm_source=8c0e11bf
+DE,HUK-COBURG Versicherungsgruppe,Data Engineer - BI (m/w/d),"Coburg, Coburg (Kreis)",data_engineer,2026-05-26T20:53:39Z,https://www.adzuna.de/details/5741394267?utm_medium=api&utm_source=8c0e11bf
+DE,HUK-COBURG Versicherungsgruppe,Mathematiker als Data Engineer (m/w/d),"Coburg, Coburg (Kreis)",data_engineer,2026-05-05T11:58:09Z,https://www.adzuna.de/details/5719287663?utm_medium=api&utm_source=8c0e11bf
+DE,HUK-COBURG Versicherungsgruppe',Business Intelligence Data Engineer (w/m/d),"Coburg, Coburg (Kreis)",data_engineer,2026-05-27T12:30:17Z,https://www.adzuna.de/land/ad/5742135839?se=jGlTRPFb8RG1g60cORqbZQ&utm_medium=api&utm_source=8c0e11bf&v=D02D29F6929F8EB906F3072D3EFE208CDCF2EE53
+DE,HUK-COBURG Versicherungsgruppe',Business Intelligence Data Engineer (w/m/d),"Coburg, Coburg (Kreis)",data_engineer,2026-05-27T18:37:07Z,https://www.adzuna.de/land/ad/5742318413?se=jGlTRPFb8RG1g60cORqbZQ&utm_medium=api&utm_source=8c0e11bf&v=F858DD736367BF6EAE6651607BE641FDC610408F
+DE,Haeger Consulting,Data Engineer – Schwerpunkt Infrastruktur & Plattform*,"Bad Godesberg, Bonn",data_engineer,2026-05-12T23:02:36Z,https://www.adzuna.de/details/5727310697?utm_medium=api&utm_source=8c0e11bf
+DE,Haeger Consulting,Data Engineer – Schwerpunkt Programmierung & Datenpipelines*,"Bad Godesberg, Bonn",data_engineer,2026-05-12T22:46:19Z,https://www.adzuna.de/details/5727269119?utm_medium=api&utm_source=8c0e11bf
+DE,Hanseatisches Wein- und Sekt-Kontor Hawesko,Data Engineer (all genders),"Ottensen, Hamburg",data_engineer,2026-04-09T22:37:54Z,https://www.adzuna.de/details/5694850839?utm_medium=api&utm_source=8c0e11bf
+DE,Hassia Mineralquellen,Data Engineer (m/w/d),"Bad Vilbel, Wetteraukreis",data_engineer,2026-03-05T21:36:29Z,https://www.adzuna.de/details/5655390617?utm_medium=api&utm_source=8c0e11bf
+DE,Helsing,Finance Data Engineer,"München, München (Kreis)",data_engineer,2026-05-21T23:00:55Z,https://www.adzuna.de/details/5736920140?utm_medium=api&utm_source=8c0e11bf
+DE,Helsing,AI Research Engineer - ML Engineering,Deutschland,ml_engineer,2026-02-12T21:13:32Z,https://www.adzuna.de/details/5626589126?utm_medium=api&utm_source=8c0e11bf
+DE,Highberg,Data Engineer (w/m/d),"HafenCity, Hamburg",data_engineer,2026-05-12T22:41:44Z,https://www.adzuna.de/details/5727220929?utm_medium=api&utm_source=8c0e11bf
+DE,Highberg DACH,Data Engineer (w/m/d),"HafenCity, Hamburg",data_engineer,2023-10-05T13:29:17Z,https://www.adzuna.de/details/4352579290?utm_medium=api&utm_source=8c0e11bf
+DE,Hochschule für angewandtes Management,Computer Science M.Sc. (Duales Studium 2026/27) | HAM,"Leipzig (Kreis), Sachsen",ml_engineer,2026-04-01T18:42:20Z,https://www.adzuna.de/details/5685848375?utm_medium=api&utm_source=8c0e11bf
+DE,Hohenstein,Data Engineer (m/w/d),"Bellevue, Heilbronn (Kreis)",data_engineer,2026-04-29T10:31:55Z,https://www.adzuna.de/details/5713537473?utm_medium=api&utm_source=8c0e11bf
+DE,Hohenstein Karriere,Data Engineer (m/w/d),"Bellevue, Heilbronn (Kreis)",data_engineer,2026-05-12T22:55:37Z,https://www.adzuna.de/details/5727295424?utm_medium=api&utm_source=8c0e11bf
+DE,Huawei Research Center Germany,AI/ML Ops Engineer (18-month Leased Labor),"Moosach, München",ml_engineer,2026-04-30T22:32:45Z,https://www.adzuna.de/details/5714813907?utm_medium=api&utm_source=8c0e11bf
+DE,Huntington Ingalls Industries,CJADC2 Planner CMS Project 1032 (Strategic Planner 3) - 26901,"Ramstein-Miesenbach, Kaiserslautern (Kreis)",ml_engineer,2026-01-31T04:58:38Z,https://www.adzuna.de/land/ad/5607110493?se=uuJaVPFb8RGbGvW-bcCcHA&utm_medium=api&utm_source=8c0e11bf&v=E9FA5E824040C1ED41D70164A95F9E81E8B6614F
+DE,Huntington Ingalls Industries,CMS Operations Planner (Operations Research Analyst 3)- 27497,"Ramstein-Miesenbach, Kaiserslautern (Kreis)",ml_engineer,2026-03-07T05:45:28Z,https://www.adzuna.de/land/ad/5657181232?se=uuJaVPFb8RGbGvW-bcCcHA&utm_medium=api&utm_source=8c0e11bf&v=C2A6B5A2A8773526E53890CCE720E70A3A4A3643
+DE,Huntington Ingalls Industries,Project Manager - CMS (Mgr Project Management 2) - 26950,"Ramstein-Miesenbach, Kaiserslautern (Kreis)",ml_engineer,2026-02-04T05:08:25Z,https://www.adzuna.de/land/ad/5613176351?se=uuJaVPFb8RGbGvW-bcCcHA&utm_medium=api&utm_source=8c0e11bf&v=69B57B136F17B6B18BCD88A7C49AC893EB212580
+DE,Huntington Ingalls Industries,IT Project Manager (Mgr Project Management 2) - 28621,"Ramstein-Miesenbach, Kaiserslautern (Kreis)",ml_engineer,2026-05-20T07:22:40Z,https://www.adzuna.de/land/ad/5734834961?se=uuJaVPFb8RGbGvW-bcCcHA&utm_medium=api&utm_source=8c0e11bf&v=F17CEFD70A84509FF22A4EAD4DFEA6DA47EAC097
+DE,Huntington Ingalls Industries,Systems Engineer (Engineer Systems 3) - 28596,"Ramstein-Miesenbach, Kaiserslautern (Kreis)",ml_engineer,2026-05-20T07:22:41Z,https://www.adzuna.de/land/ad/5734834967?se=uuJaVPFb8RGbGvW-bcCcHA&utm_medium=api&utm_source=8c0e11bf&v=846BBED5F60BAADA6208A2143F5BC214F2031117
+DE,Huntington Ingalls Industries,Network Engineer (Engineer Network 3) - 28264,"Ramstein-Miesenbach, Kaiserslautern (Kreis)",ml_engineer,2026-05-20T07:22:40Z,https://www.adzuna.de/land/ad/5734834964?se=uuJaVPFb8RGbGvW-bcCcHA&utm_medium=api&utm_source=8c0e11bf&v=AFE9AAB7FD7F8D075C691170D7293ABF4C6DE443
+DE,Huntington Ingalls Industries,Cyber Security Analyst (Computer Sys Security Anlyst 3) - 28625,"Ramstein-Miesenbach, Kaiserslautern (Kreis)",ml_engineer,2026-05-20T07:22:40Z,https://www.adzuna.de/land/ad/5734834963?se=uuJaVPFb8RGbGvW-bcCcHA&utm_medium=api&utm_source=8c0e11bf&v=853972294DA1C483F1F19D8F90EB18B88791F19F
+DE,Huntington Ingalls Industries,CMS Knowledge Manager (Systems Administrator 3) -28517,"Ramstein-Miesenbach, Kaiserslautern (Kreis)",ml_engineer,2026-05-09T07:15:03Z,https://www.adzuna.de/land/ad/5723867559?se=uuJaVPFb8RGbGvW-bcCcHA&utm_medium=api&utm_source=8c0e11bf&v=911D3449BAE623E1E304AD58C08301649C570D63
+DE,Huzzle,Data Engineer,"Berlin, Deutschland",data_engineer,2026-05-20T18:57:33Z,https://www.adzuna.de/details/5735286361?utm_medium=api&utm_source=8c0e11bf
+DE,IBM,Data Engineer (m/w/d) Data Warehouse,"Frankfurt am Main, Hessen",data_engineer,2025-02-24T18:13:08Z,https://www.adzuna.de/details/5062250357?utm_medium=api&utm_source=8c0e11bf
+DE,ISR Information Products AG,IT-Spezialist als Trainee Data Engineer / Data Scientist (m/w/d),"Hamburg, Deutschland",data_engineer,2026-04-08T12:40:42Z,https://www.adzuna.de/details/5693047442?utm_medium=api&utm_source=8c0e11bf
+DE,ISR Information Products AG,Data Engineer / ETL-Developer im IT Consulting (m/w/d),"Hamburg, Deutschland",data_engineer,2025-07-09T14:23:07Z,https://www.adzuna.de/details/5293590016?utm_medium=api&utm_source=8c0e11bf
+DE,ISR Information Products AG,Data Engineer / ETL-Developer im IT Consulting (m/w/d),"Frankfurt am Main, Hessen",data_engineer,2025-07-09T14:23:06Z,https://www.adzuna.de/details/5293589919?utm_medium=api&utm_source=8c0e11bf
+DE,ISR Information Products AG,IT-Ingenieur als Trainee Data Engineer SAP BTP - Business Intelligence (m/w/d),"Hamburg, Deutschland",data_engineer,2025-08-27T20:30:48Z,https://www.adzuna.de/details/5370498198?utm_medium=api&utm_source=8c0e11bf
+DE,ISR Information Products AG,Trainee Data Engineer / Data Scientist (m/w/d),"Hamburg, Deutschland",data_engineer,2025-08-21T04:16:42Z,https://www.adzuna.de/details/5361547978?utm_medium=api&utm_source=8c0e11bf
+DE,Inceptive,Foundation and generative models for biomolecules,Deutschland,ml_engineer,2025-10-31T14:00:52Z,https://www.adzuna.de/details/5472737873?utm_medium=api&utm_source=8c0e11bf
+DE,Isar Aerospace SE,Data Engineer (m/f/d),Deutschland,data_engineer,2026-05-05T22:47:49Z,https://www.adzuna.de/details/5719833024?utm_medium=api&utm_source=8c0e11bf
+DE,JetBrains,Founding ML Engineer (Spectrum),Deutschland,ml_engineer,2026-03-13T21:32:16Z,https://www.adzuna.de/details/5664129157?utm_medium=api&utm_source=8c0e11bf
+DE,Jobgether,Data Engineer,Deutschland,data_engineer,2026-05-27T23:41:22Z,https://www.adzuna.de/details/5742725478?utm_medium=api&utm_source=8c0e11bf
+DE,Jobgether,Data Engineer (Integration),Deutschland,data_engineer,2026-05-22T22:33:04Z,https://www.adzuna.de/details/5737905173?utm_medium=api&utm_source=8c0e11bf
+DE,Jobgether,Data Engineer (Java & Scala),Deutschland,data_engineer,2026-05-29T23:31:40Z,https://www.adzuna.de/details/5744976660?utm_medium=api&utm_source=8c0e11bf
+DE,Jobgether,"Data Engineer (DBT, Snowflake & SQL)",Deutschland,data_engineer,2026-05-28T23:05:36Z,https://www.adzuna.de/details/5743928596?utm_medium=api&utm_source=8c0e11bf
+DE,Jobgether,"AI/ML Engineer, Python",Deutschland,ml_engineer,2026-05-21T23:21:14Z,https://www.adzuna.de/details/5736942631?utm_medium=api&utm_source=8c0e11bf
+DE,Kpler,Data Engineer,Deutschland,data_engineer,2026-04-11T22:48:54Z,https://www.adzuna.de/details/5697001759?utm_medium=api&utm_source=8c0e11bf
+DE,Kpler,Data Engineer - Dry Bulk Commodities,Deutschland,data_engineer,2026-04-18T22:16:42Z,https://www.adzuna.de/details/5703802625?utm_medium=api&utm_source=8c0e11bf
+DE,LBBW,Data Engineer (m/w/d),"Mitte, Stuttgart",data_engineer,2026-05-22T23:58:48Z,https://www.adzuna.de/details/5738117224?utm_medium=api&utm_source=8c0e11bf
+DE,LM IT,Data Engineer (m/w/d),"Hellern, Osnabrück",data_engineer,2025-10-02T04:07:54Z,https://www.adzuna.de/details/5425730911?utm_medium=api&utm_source=8c0e11bf
+DE,LM IT Services AG,Data Engineer (m/w/d),Deutschland,data_engineer,2026-05-12T23:13:45Z,https://www.adzuna.de/details/5727331636?utm_medium=api&utm_source=8c0e11bf
+DE,Landesbank Baden-Württemberg,"Informatiker, Wirtschaftsinformatiker - Databricks (m/w/d)","Mitte, Stuttgart",ml_engineer,2026-05-13T12:24:23Z,https://www.adzuna.de/details/5727956852?utm_medium=api&utm_source=8c0e11bf
+DE,Legalhero,Data Engineer (m/w/d),"Kreuzberg, Berlin",data_engineer,2026-05-24T23:17:42Z,https://www.adzuna.de/details/5740050441?utm_medium=api&utm_source=8c0e11bf
+DE,Liebherr,Data Platform Engineer (m/f/d),Deutschland,data_engineer,2026-04-30T00:40:52Z,https://www.adzuna.de/land/ad/5713965902?se=jGlTRPFb8RG1g60cORqbZQ&utm_medium=api&utm_source=8c0e11bf&v=0F5C35F25CB0C0C3924F27C775A5E751A98F9CAB
+DE,MUUUH,Data Engineer (m/w/d),"Hellern, Osnabrück",data_engineer,2026-05-12T22:40:26Z,https://www.adzuna.de/details/5727206512?utm_medium=api&utm_source=8c0e11bf
+DE,Macaw Germany,(Semantic) Data Engineer (m/w/d),"Barmen, Wuppertal",data_engineer,2026-05-20T22:56:13Z,https://www.adzuna.de/details/5735576134?utm_medium=api&utm_source=8c0e11bf
+DE,Melotech,AI/ML Engineer,"Berlin, Deutschland",ml_engineer,2025-11-18T18:25:24Z,https://www.adzuna.de/details/5502126209?utm_medium=api&utm_source=8c0e11bf
+DE,Melotech,AI/ML Engineer Intern,"Berlin, Deutschland",ml_engineer,2025-11-18T18:11:29Z,https://www.adzuna.de/details/5502025891?utm_medium=api&utm_source=8c0e11bf
+DE,Merantix Capital,Venture studio investor & builder,"Wedding, Berlin",ml_engineer,2026-05-12T23:07:20Z,https://www.adzuna.de/details/5727320897?utm_medium=api&utm_source=8c0e11bf
+DE,Merantix Momentum,Machine Learning Engineer - Talent Pool (m/f/d),"Wedding, Berlin",ml_engineer,2026-05-12T22:55:30Z,https://www.adzuna.de/details/5727295323?utm_medium=api&utm_source=8c0e11bf
+DE,Merkur.Com Ag,SAP Data Engineer (m/w/d),"Espelkamp, Minden-Lübbecke (Kreis)",data_engineer,2026-04-28T22:31:05Z,https://www.adzuna.de/details/5712944906?utm_medium=api&utm_source=8c0e11bf
+DE,Mindrift,Freelance Machine Learning Engineer,"München, München (Kreis)",ml_engineer,2026-05-24T16:07:56Z,https://www.adzuna.de/details/5739797270?utm_medium=api&utm_source=8c0e11bf
+DE,Mindrift,Freelance Machine Learning Engineer,Deutschland,ml_engineer,2026-05-24T16:07:56Z,https://www.adzuna.de/details/5739797266?utm_medium=api&utm_source=8c0e11bf
+DE,Mindrift,Freelance Machine Learning Engineer,"Stuttgart, Baden-Württemberg",ml_engineer,2026-05-24T16:07:56Z,https://www.adzuna.de/details/5739797271?utm_medium=api&utm_source=8c0e11bf
+DE,Mindrift,Freelance Machine Learning Engineer,"Hamburg, Deutschland",ml_engineer,2026-05-24T16:07:56Z,https://www.adzuna.de/details/5739797269?utm_medium=api&utm_source=8c0e11bf
+DE,Mindrift,Freelance Machine Learning Engineer,"Frankfurt am Main, Hessen",ml_engineer,2026-05-24T16:07:56Z,https://www.adzuna.de/details/5739797268?utm_medium=api&utm_source=8c0e11bf
+DE,Nebius,UX Researcher,Deutschland,ml_engineer,2026-05-20T23:07:29Z,https://www.adzuna.de/details/5735584146?utm_medium=api&utm_source=8c0e11bf
+DE,Nebius,AI Researcher (Early Talent),Deutschland,ml_engineer,2026-03-18T21:45:27Z,https://www.adzuna.de/details/5671201358?utm_medium=api&utm_source=8c0e11bf
+DE,Nebius,Technical Writer,Deutschland,ml_engineer,2026-05-20T22:54:42Z,https://www.adzuna.de/details/5735555833?utm_medium=api&utm_source=8c0e11bf
+DE,Nebius,Technical Product Manager - AI Cloud Network,Deutschland,ml_engineer,2026-03-17T21:59:50Z,https://www.adzuna.de/details/5669967147?utm_medium=api&utm_source=8c0e11bf
+DE,Nebius,Regional Sales Director - DACH,Deutschland,ml_engineer,2026-02-20T22:00:29Z,https://www.adzuna.de/details/5638876067?utm_medium=api&utm_source=8c0e11bf
+DE,Nebius,Product Manager - Security,Deutschland,ml_engineer,2026-03-17T21:12:57Z,https://www.adzuna.de/details/5669867160?utm_medium=api&utm_source=8c0e11bf
+DE,Nebul,Big Data Engineer (Spark),Deutschland,data_engineer,2026-05-12T23:14:30Z,https://www.adzuna.de/details/5727332766?utm_medium=api&utm_source=8c0e11bf
+DE,Neural Concept,Account Executive - Germany,Deutschland,ml_engineer,2026-05-07T22:36:22Z,https://www.adzuna.de/details/5722024991?utm_medium=api&utm_source=8c0e11bf
+DE,Nexxa.AI,Applied AI Engineer,Deutschland,ml_engineer,2026-01-09T20:30:53Z,https://www.adzuna.de/details/5576647966?utm_medium=api&utm_source=8c0e11bf
+DE,Nia Health,Machine Learning Engineer (f/m/d),"Kreuzberg, Berlin",ml_engineer,2026-05-29T22:54:25Z,https://www.adzuna.de/details/5744833814?utm_medium=api&utm_source=8c0e11bf
+DE,Noxtua AG,Data Engineer (m/f/d),"Wedding, Berlin",data_engineer,2026-05-22T10:43:08Z,https://www.adzuna.de/details/5737441625?utm_medium=api&utm_source=8c0e11bf
+DE,OMMAX,Data Engineer (m/f/d),"Altstadt-Lehel, München",data_engineer,2026-05-12T23:34:39Z,https://www.adzuna.de/details/5727352281?utm_medium=api&utm_source=8c0e11bf
+DE,OfferZen,Data Engineer,"München, München (Kreis)",data_engineer,2022-11-30T15:04:12Z,https://www.adzuna.de/details/3733358304?utm_medium=api&utm_source=8c0e11bf
+DE,OfferZen,Data Engineer,"Berlin, Deutschland",data_engineer,2022-11-30T15:04:09Z,https://www.adzuna.de/details/3733357947?utm_medium=api&utm_source=8c0e11bf
+DE,Olmatic,AI & ML Engineer (m/w/d),Deutschland,ml_engineer,2026-05-12T23:05:39Z,https://www.adzuna.de/details/5727314803?utm_medium=api&utm_source=8c0e11bf
+DE,Omnora,Business Analyst (m/w/d) – Agentisierung & AI Automation,"Sachsenhausen, Frankfurt am Main",ml_engineer,2026-05-12T22:53:33Z,https://www.adzuna.de/details/5727293417?utm_medium=api&utm_source=8c0e11bf
+DE,OpenAI,AI Deployment Engineer - Startups,"München, München (Kreis)",ml_engineer,2026-05-09T23:23:09Z,https://www.adzuna.de/details/5724618315?utm_medium=api&utm_source=8c0e11bf
+DE,Orcrist Technologies,Data Engineer (Python),Deutschland,data_engineer,2026-05-07T22:54:23Z,https://www.adzuna.de/details/5722140631?utm_medium=api&utm_source=8c0e11bf
+DE,Orcrist Technologies,ML Engineer,Deutschland,ml_engineer,2026-05-07T22:52:03Z,https://www.adzuna.de/details/5722126628?utm_medium=api&utm_source=8c0e11bf
+DE,Orcrist Technologies,Full-Stack Engineer (TypeScript),Deutschland,ml_engineer,2026-05-07T22:58:28Z,https://www.adzuna.de/details/5722145869?utm_medium=api&utm_source=8c0e11bf
+DE,PAMEC PAPP GmbH | NL Nürnberg,Data Engineer (gn) Customer Experience,"Doos, Nürnberg",data_engineer,2026-05-03T10:39:12Z,https://www.adzuna.de/details/5717743412?utm_medium=api&utm_source=8c0e11bf
+DE,ParshipMeet Group,Machine Learning Engineer (all genders),Deutschland,ml_engineer,2026-05-23T22:49:18Z,https://www.adzuna.de/details/5739128160?utm_medium=api&utm_source=8c0e11bf
+DE,Peak One GmbH,Data Engineer (w/m/d),"Innenstadt, Bielefeld",data_engineer,2026-05-20T02:32:56Z,https://www.adzuna.de/details/5734581867?utm_medium=api&utm_source=8c0e11bf
+DE,Peak One GmbH,Data Engineer (m/w/d),"Dornbusch, Frankfurt am Main",data_engineer,2026-05-12T02:26:55Z,https://www.adzuna.de/details/5726305287?utm_medium=api&utm_source=8c0e11bf
+DE,Prior Labs,Technical Writer (Part Time),"Berlin, Deutschland",ml_engineer,2026-05-22T22:51:33Z,https://www.adzuna.de/details/5738040346?utm_medium=api&utm_source=8c0e11bf
+DE,Prior Labs,"ML Engineer, Forward Deployed","Berlin, Deutschland",ml_engineer,2026-02-02T20:05:22Z,https://www.adzuna.de/details/5610695164?utm_medium=api&utm_source=8c0e11bf
+DE,Prior Labs,"ML Engineer, Open Source","Berlin, Deutschland",ml_engineer,2026-03-24T21:50:44Z,https://www.adzuna.de/details/5677386600?utm_medium=api&utm_source=8c0e11bf
+DE,Prior Labs,"ML Engineer, Cloud Platform","Berlin, Deutschland",ml_engineer,2025-09-28T13:35:00Z,https://www.adzuna.de/details/5419210168?utm_medium=api&utm_source=8c0e11bf
+DE,Prior Labs,"Full Stack Engineer, ML Platform","Berlin, Deutschland",ml_engineer,2026-02-19T21:18:04Z,https://www.adzuna.de/details/5636556604?utm_medium=api&utm_source=8c0e11bf
+DE,Prior Labs,"Account Executive, Berlin","Berlin, Deutschland",ml_engineer,2026-04-18T22:32:18Z,https://www.adzuna.de/details/5703923104?utm_medium=api&utm_source=8c0e11bf
+DE,Product Reports,Computer Vision ML Engineer,"Berlin, Deutschland",ml_engineer,2026-04-21T08:14:49Z,https://www.adzuna.de/details/5705891546?utm_medium=api&utm_source=8c0e11bf
+DE,Proxima Fusion,Neutronics Engineer,Deutschland,ml_engineer,2026-01-09T21:30:41Z,https://www.adzuna.de/details/5576754267?utm_medium=api&utm_source=8c0e11bf
+DE,Qontext,Backend Engineer – AI/ML,"Berlin, Deutschland",ml_engineer,2026-05-07T22:56:11Z,https://www.adzuna.de/details/5722142985?utm_medium=api&utm_source=8c0e11bf
+DE,Qontext,Software Engineering Intern,"Berlin, Deutschland",ml_engineer,2026-05-07T22:55:14Z,https://www.adzuna.de/details/5722141739?utm_medium=api&utm_source=8c0e11bf
+DE,Quantum- Systems GmbH,AI Software Engineer (m/f/d),"Gilching, Starnberg (Kreis)",ml_engineer,2026-05-10T03:48:59Z,https://www.adzuna.de/details/5724786696?utm_medium=api&utm_source=8c0e11bf
+DE,RaceOn,(Senior) Machine Learning Engineer,Deutschland,ml_engineer,2026-05-12T22:51:26Z,https://www.adzuna.de/details/5727289766?utm_medium=api&utm_source=8c0e11bf
+DE,Redcare Pharmacy,Data Engineer (m/f/d),"Köln, Nordrhein-Westfalen",data_engineer,2026-05-15T06:02:11Z,https://www.adzuna.de/details/5730020167?utm_medium=api&utm_source=8c0e11bf
+DE,Redcare Pharmacy,Data Engineer (m/f/d),"Altstadt-Nord, Köln",data_engineer,2026-04-23T23:05:31Z,https://www.adzuna.de/details/5708715982?utm_medium=api&utm_source=8c0e11bf
+DE,Redcare Pharmacy,Data Engineer (m/f/d),"Altstadt-Nord, Köln",data_engineer,2026-02-26T22:34:19Z,https://www.adzuna.de/details/5646673598?utm_medium=api&utm_source=8c0e11bf
+DE,Reply Deutschland SE,"(Junior) Machine Learning Engineer (m/w/d) - System Engineering / Admin, Ingenieur","Berlin, Deutschland",ml_engineer,2026-05-27T09:06:13Z,https://www.adzuna.de/details/5742024605?utm_medium=api&utm_source=8c0e11bf
+DE,Reply Deutschland SE,"(Junior) Machine Learning Engineer (m/w/d) - System Engineering / Admin, Ingenieur","München, München (Kreis)",ml_engineer,2026-05-27T09:06:13Z,https://www.adzuna.de/details/5742024606?utm_medium=api&utm_source=8c0e11bf
+DE,Resmed,Data Engineer (m/w/d),Deutschland,data_engineer,2026-04-14T23:00:19Z,https://www.adzuna.de/details/5699368658?utm_medium=api&utm_source=8c0e11bf
+DE,Rhenus Logistics,Data Engineer (w/m/d),Deutschland,data_engineer,2026-05-20T23:28:09Z,https://www.adzuna.de/details/5735594868?utm_medium=api&utm_source=8c0e11bf
+DE,Robert Bosch GmbH,Werkstudent Data Science mit Schwerpunkt Bildverarbeitung (w/m/div.),"Wildensorg, Bamberg",ml_engineer,2026-05-20T18:48:38Z,https://www.adzuna.de/details/5735272221?utm_medium=api&utm_source=8c0e11bf
+DE,Roofline,"Software Engineer, AI Infrastructure & Testing",Deutschland,ml_engineer,2026-05-12T22:55:40Z,https://www.adzuna.de/details/5727295496?utm_medium=api&utm_source=8c0e11bf
+DE,RooflineAI GmbH,"Software Engineer, AI Infrastructure & Testing","Altstadt-Nord, Köln",ml_engineer,2026-04-03T10:18:48Z,https://www.adzuna.de/details/5688454568?utm_medium=api&utm_source=8c0e11bf
+DE,SE3 Labs,Talent Partner,Deutschland,ml_engineer,2025-12-11T20:57:06Z,https://www.adzuna.de/details/5538434495?utm_medium=api&utm_source=8c0e11bf
+DE,SIXT Germany,MLOps & GenAI Platform Engineer (m/f/d),"München, München (Kreis)",ml_engineer,2026-05-19T12:12:34Z,https://www.adzuna.de/details/5733923384?utm_medium=api&utm_source=8c0e11bf
+DE,SKOPOS RESEARCH,Data Engineer (m/w/d),"Laurensberg, Aachen",data_engineer,2026-05-12T22:51:15Z,https://www.adzuna.de/details/5727289355?utm_medium=api&utm_source=8c0e11bf
+DE,SThree Germany,AI & Machine Learning Engineer (all genders),"Hausen, Frankfurt am Main",ml_engineer,2026-05-08T02:27:37Z,https://www.adzuna.de/details/5722278756?utm_medium=api&utm_source=8c0e11bf
+DE,SThree Germany,Machine Learning Engineer (m/w/d),"Berlin, Deutschland",ml_engineer,2026-05-07T02:26:30Z,https://www.adzuna.de/details/5721000808?utm_medium=api&utm_source=8c0e11bf
+DE,SThree Germany,Cloud Engineer (m/w/d),"Hausen, Frankfurt am Main",ml_engineer,2026-05-08T02:27:38Z,https://www.adzuna.de/details/5722278764?utm_medium=api&utm_source=8c0e11bf
+DE,SThree Germany,KI Consultants,"Frankfurt am Main, Hessen",ml_engineer,2026-05-19T02:31:49Z,https://www.adzuna.de/details/5733565219?utm_medium=api&utm_source=8c0e11bf
+DE,Sanitätshaus Aktuell AG,Data Engineer (m/w/d),Deutschland,data_engineer,2026-05-20T22:41:49Z,https://www.adzuna.de/details/5735458225?utm_medium=api&utm_source=8c0e11bf
+DE,Sanitätshaus Aktuell AG,Data Engineer (m/w/d),"Altstadt-Nord, Köln",data_engineer,2026-05-19T10:35:59Z,https://www.adzuna.de/details/5733864586?utm_medium=api&utm_source=8c0e11bf
+DE,Schlütersche Verlagsgesellschaft mbH & Co. KG,Data Engineer (m/w/d),"Bult, Hannover",data_engineer,2026-01-22T07:04:03Z,https://www.adzuna.de/details/5595216061?utm_medium=api&utm_source=8c0e11bf
+DE,Schwarz Digits,Data Engineer Berlin (m/w/d),"Berlin, Deutschland",data_engineer,2026-05-20T23:57:34Z,https://www.adzuna.de/details/5735624874?utm_medium=api&utm_source=8c0e11bf
+DE,Semron,ML Research Scientist,"Friedrichstadt, Dresden",ml_engineer,2026-05-26T23:19:59Z,https://www.adzuna.de/details/5741626008?utm_medium=api&utm_source=8c0e11bf
+DE,Sensmore,ML Ops / Data Engineer - Robotics,"Potsdam, Brandenburg",data_engineer,2026-02-28T21:39:54Z,https://www.adzuna.de/details/5649054191?utm_medium=api&utm_source=8c0e11bf
+DE,Serco,Data Engineer-Washington DC,"Baumholder, Birkenfeld (Kreis)",data_engineer,2026-05-08T07:14:47Z,https://www.adzuna.de/land/ad/5722607014?se=OGrSRfFb8RGobtSHcEIOiA&utm_medium=api&utm_source=8c0e11bf&v=700816BED4C06672C30C568241FE3A931D91B435
+DE,Serco,Data Engineer-Washington DC,"Bodenbach, Meißen (Kreis)",data_engineer,2026-05-08T07:14:47Z,https://www.adzuna.de/land/ad/5722607004?se=OGrSRfFb8RGobtSHcEIOiA&utm_medium=api&utm_source=8c0e11bf&v=BFABEF20F97F50B39AC044DAC020DE6E4D314083
+DE,Serco,Data Engineer-Washington DC,"Bayern, Deutschland",data_engineer,2026-05-08T07:14:48Z,https://www.adzuna.de/land/ad/5722607023?se=OGrSRfFb8RGobtSHcEIOiA&utm_medium=api&utm_source=8c0e11bf&v=F76AF889BCFB295D23FAEC8093AFFC04E04E1074
+DE,Serco,Data Engineer-Washington DC,Deutschland,data_engineer,2026-05-10T07:17:16Z,https://www.adzuna.de/land/ad/5724909845?se=OGrSRfFb8RGobtSHcEIOiA&utm_medium=api&utm_source=8c0e11bf&v=CE43E64D663AC59EAB1C91B3758C5508F49FAABE
+DE,Serco,Data Engineer-Washington DC,"Bruch, Dinslaken",data_engineer,2026-05-08T07:14:47Z,https://www.adzuna.de/land/ad/5722606997?se=OGrSRfFb8RGobtSHcEIOiA&utm_medium=api&utm_source=8c0e11bf&v=12048B70106ABD9520986665D59C3F6F12C9A7BA
+DE,Serco,Data Engineer-Washington DC,"Baumholder, Birkenfeld (Kreis)",data_engineer,2026-05-16T06:27:12Z,https://www.adzuna.de/details/5731080327?utm_medium=api&utm_source=8c0e11bf
+DE,Serco,Data Engineer-Washington DC,Deutschland,data_engineer,2026-05-16T06:27:12Z,https://www.adzuna.de/details/5731080233?utm_medium=api&utm_source=8c0e11bf
+DE,Serrala Group GmbH,Data Engineer - Data Foundations for AI (all genders) - Inklusiver Job   ,Deutschland,data_engineer,2026-04-11T19:08:21Z,https://www.adzuna.de/land/ad/5696771269?se=jGlTRPFb8RG1g60cORqbZQ&utm_medium=api&utm_source=8c0e11bf&v=BF5B7E8D2637F12401E6B22E487E97445E65FA7C
+DE,Skopos Group,Data Engineer (m/w/d),"Laurensberg, Aachen",data_engineer,2026-05-12T23:26:58Z,https://www.adzuna.de/details/5727344924?utm_medium=api&utm_source=8c0e11bf
+DE,Softgarden Uden,Data Engineer (m/w/d),"Düsseldorf, Nordrhein-Westfalen",data_engineer,2024-11-08T12:48:34Z,https://www.adzuna.de/details/4931300876?utm_medium=api&utm_source=8c0e11bf
+DE,Softgarden Uden,Data Engineer (m/w/d),Deutschland,data_engineer,2024-07-30T22:39:06Z,https://www.adzuna.de/details/4801149812?utm_medium=api&utm_source=8c0e11bf
+DE,Sonia,Senior Machine Learning Engineer (ASR) (all),"Mitte, Berlin",ml_engineer,2026-03-27T09:21:24Z,https://www.adzuna.de/details/5680146809?utm_medium=api&utm_source=8c0e11bf
+DE,Sonia Solutions,Senior Machine Learning Engineer (ASR) (all),"Altstadt-Lehel, München",ml_engineer,2026-05-12T23:25:03Z,https://www.adzuna.de/details/5727342732?utm_medium=api&utm_source=8c0e11bf
+DE,Sopra-Steria,AI Platform Engineer (m/w/d),Deutschland,ml_engineer,2026-04-17T08:09:47Z,https://www.adzuna.de/details/5702282896?utm_medium=api&utm_source=8c0e11bf
+DE,SpiNNcloud Systems,Embedded Machine Learning Engineer,"Friedrichstadt, Dresden",ml_engineer,2024-11-08T12:49:06Z,https://www.adzuna.de/details/4931307738?utm_medium=api&utm_source=8c0e11bf
+DE,Statista,Data Engineer - Data Platform (m/f/d),"Hamburg, Deutschland",data_engineer,2026-05-21T23:21:43Z,https://www.adzuna.de/details/5736942780?utm_medium=api&utm_source=8c0e11bf
+DE,Statista,Full-Stack ML Engineer - Data Products (m/f/d),"Berlin, Deutschland",ml_engineer,2026-04-24T23:07:10Z,https://www.adzuna.de/details/5709733688?utm_medium=api&utm_source=8c0e11bf
+DE,SumUp,Engineering Manager - Edge AI,"Berlin, Deutschland",ml_engineer,2026-05-16T22:50:37Z,https://www.adzuna.de/details/5731790588?utm_medium=api&utm_source=8c0e11bf
+DE,TKMS GmbH,Data Engineer (m/w/d),"Gaarden-Ost, Kiel",data_engineer,2026-05-07T17:38:02Z,https://www.adzuna.de/details/5721782267?utm_medium=api&utm_source=8c0e11bf
+DE,TSMG,Drone Pilot for AI Training and Data Collection,"Berlin, Deutschland",ml_engineer,2024-12-14T12:38:35Z,https://www.adzuna.de/details/4977805107?utm_medium=api&utm_source=8c0e11bf
+DE,Tennis-Point Europe GmbH,Data Engineer (m/w/d),"Hamm, Marl",data_engineer,2026-04-28T17:13:26Z,https://www.adzuna.de/details/5712811486?utm_medium=api&utm_source=8c0e11bf
+DE,Tennis-Point Europe GmbH,Data Engineer (m/w/d),"Berlin, Deutschland",data_engineer,2026-04-24T16:58:46Z,https://www.adzuna.de/details/5709419687?utm_medium=api&utm_source=8c0e11bf
+DE,Tennis-Point Europe GmbH,Data Engineer (m/w/d),"Herzebrock-Clarholz, Gütersloh (Kreis)",data_engineer,2026-04-21T16:53:59Z,https://www.adzuna.de/details/5706214054?utm_medium=api&utm_source=8c0e11bf
+DE,Transdev GmbH,Data Engineer (m/w/d),"Mitte, Berlin",data_engineer,2026-05-16T10:41:28Z,https://www.adzuna.de/details/5731234059?utm_medium=api&utm_source=8c0e11bf
+DE,Tri.Merge,Data Engineer – Pipelines & Integration *,"Schnetzenhausen, Friedrichshafen",data_engineer,2026-05-12T23:25:28Z,https://www.adzuna.de/details/5727343157?utm_medium=api&utm_source=8c0e11bf
+DE,Trimble,Machine Learning Engineer,"München, München (Kreis)",ml_engineer,2026-05-06T22:53:10Z,https://www.adzuna.de/details/5720901354?utm_medium=api&utm_source=8c0e11bf
+DE,TruBridge,Cloud Data Engineer (m/w/d),"Fahrlach, Mannheim",data_engineer,2024-07-30T22:42:14Z,https://www.adzuna.de/details/4801188169?utm_medium=api&utm_source=8c0e11bf
+DE,Twaice,Energy Systems Data Engineer,"Milbertshofen-Am Hart, München",data_engineer,2026-05-12T22:41:44Z,https://www.adzuna.de/details/5727220914?utm_medium=api&utm_source=8c0e11bf
+DE,Union Investment,Databricks Platform Engineer (m/w/d),"Frankfurt am Main, Hessen",ml_engineer,2026-05-23T16:55:29Z,https://www.adzuna.de/land/ad/5738871191?se=KnnjUfFb8RGGf_18Q7HmZA&utm_medium=api&utm_source=8c0e11bf&v=D908495FDBFBCA97B43EDB15CFADF2DFB8D5E80F
+DE,Unit8 SA,"Palantir Foundry Engineer (Frankfurt or Munich, Germany)","München, München (Kreis)",ml_engineer,2025-09-22T14:48:18Z,https://www.adzuna.de/details/5410580000?utm_medium=api&utm_source=8c0e11bf
+DE,Unit8 SA,"Palantir Foundry Engineer (Frankfurt or Munich, Germany)","Frankfurt am Main, Hessen",ml_engineer,2025-09-11T11:03:10Z,https://www.adzuna.de/details/5393910514?utm_medium=api&utm_source=8c0e11bf
+DE,Vanessa Hegemann,BI Data Engineer (m/w/d),"Sundern (Sauerland), Hochsauerlandkreis",data_engineer,2025-12-20T20:47:11Z,https://www.adzuna.de/details/5550416135?utm_medium=api&utm_source=8c0e11bf
+DE,Veeam Software,Security Success Engineer,Deutschland,ml_engineer,2026-04-24T23:15:54Z,https://www.adzuna.de/details/5709737128?utm_medium=api&utm_source=8c0e11bf
+DE,VisiConsult X-ray Systems & Solutions GmbH,AI Data Engineer (m/w/d),"St. Lorenz Nord, Lübeck",data_engineer,2026-05-14T10:40:42Z,https://www.adzuna.de/details/5729014074?utm_medium=api&utm_source=8c0e11bf
+DE,Voith GmbH & Co. KGaA,Praktikum im Bereich Digitalisierung in der Produktion,"Crailsheim, Schwäbisch Hall (Kreis)",data_engineer,2026-05-28T17:00:21Z,https://www.adzuna.de/land/ad/5743570049?se=et2mSPFb8RG1g60cORqbZQ&utm_medium=api&utm_source=8c0e11bf&v=6EEE10173CE989B7D5B5FF6DF84DFC20065298E8
+DE,Walaris,Frontend Software Engineer,"Rennweg, Nürnberg",ml_engineer,2026-04-24T19:42:42Z,https://www.adzuna.de/details/5709459201?utm_medium=api&utm_source=8c0e11bf
+DE,WebMD,Data Scientist/ML Engineer (m/f/d) Job ID 2026-1514,"Berlin, Deutschland",ml_engineer,2026-05-10T23:22:36Z,https://www.adzuna.de/details/5725408255?utm_medium=api&utm_source=8c0e11bf
+DE,Whitehall Resources,Data Engineer - German Speaking,Deutschland,data_engineer,2026-05-14T02:28:10Z,https://www.adzuna.de/details/5728593464?utm_medium=api&utm_source=8c0e11bf
+DE,Wolt,Machine Learning Engineer,Deutschland,ml_engineer,2026-05-19T22:58:57Z,https://www.adzuna.de/details/5734457757?utm_medium=api&utm_source=8c0e11bf
+DE,Woodmark Consulting,Cloud Data Engineer (m/w/d),"Grasbrunn, München (Kreis)",data_engineer,2026-05-12T22:34:50Z,https://www.adzuna.de/details/5727144290?utm_medium=api&utm_source=8c0e11bf
+DE,XFactor Jobs in Europe,Data Engineer,"Frankfurt am Main, Hessen",data_engineer,2026-05-28T09:14:10Z,https://www.adzuna.de/details/5743197580?utm_medium=api&utm_source=8c0e11bf
+DE,XO Life,AI/ML Engineer (all),Deutschland,ml_engineer,2026-05-12T23:34:57Z,https://www.adzuna.de/details/5727352464?utm_medium=api&utm_source=8c0e11bf
+DE,Your Personal AI,Machine Learning Engineer,Deutschland,ml_engineer,2026-05-06T03:37:20Z,https://www.adzuna.de/details/5719989030?utm_medium=api&utm_source=8c0e11bf
+DE,Zalando,Applied Science Manager - ZMS (all genders),"Berlin, Deutschland",ml_engineer,2026-03-18T22:01:12Z,https://www.adzuna.de/details/5671221971?utm_medium=api&utm_source=8c0e11bf
+DE,Zellerfeld Shoe Company / Zellerfeld R&D,AI Engineer,"Bahrenfeld, Hamburg",ml_engineer,2026-05-12T22:45:23Z,https://www.adzuna.de/details/5727260646?utm_medium=api&utm_source=8c0e11bf
+DE,adsquare,Data Scientist,"Prenzlauer Berg, Berlin",ml_engineer,2026-05-12T22:58:27Z,https://www.adzuna.de/details/5727298495?utm_medium=api&utm_source=8c0e11bf
+DE,apero,Data Engineer (m/w/d),"Bad Buchau, Biberach (Kreis)",data_engineer,2025-09-17T23:14:24Z,https://www.adzuna.de/details/5403568457?utm_medium=api&utm_source=8c0e11bf
+DE,areto consulting,Snowflake Data Engineer (m/w/d),"Buchheim, Köln",data_engineer,2026-05-12T22:48:56Z,https://www.adzuna.de/details/5727280746?utm_medium=api&utm_source=8c0e11bf
+DE,autarc GmbH,Product Manager (AI),"Wedding, Berlin",ml_engineer,2026-05-19T10:45:44Z,https://www.adzuna.de/details/5733868961?utm_medium=api&utm_source=8c0e11bf
+DE,autonomous-teaming,Junior Robotics Infrastructure Engineer (m/f/d) - CI/CD & Build Systems,"Milbertshofen-Am Hart, München",ml_engineer,2026-05-20T10:54:10Z,https://www.adzuna.de/details/5734997786?utm_medium=api&utm_source=8c0e11bf
+DE,b.telligent Gruppe,Data Engineer*,Deutschland,data_engineer,2025-06-09T14:37:36Z,https://www.adzuna.de/details/5241142935?utm_medium=api&utm_source=8c0e11bf
+DE,beroe x nnamu GmbH,ML-QA Engineer,"Wedding, Berlin",ml_engineer,2026-01-22T07:11:23Z,https://www.adzuna.de/details/5595226766?utm_medium=api&utm_source=8c0e11bf
+DE,carbmee GmbH,Data & AI Consultant (All Levels) | ClimateTech,"Ludwigsvorstadt-Isarvorstadt, München",ml_engineer,2026-04-11T10:24:08Z,https://www.adzuna.de/details/5696505949?utm_medium=api&utm_source=8c0e11bf
+DE,ellamind,Software Engineer,"Berlin, Deutschland",ml_engineer,2026-01-31T21:40:04Z,https://www.adzuna.de/details/5607802858?utm_medium=api&utm_source=8c0e11bf
+DE,eschbach,Machine Learning Engineer - Remote (all genders),"Bad Säckingen, Waldshut (Kreis)",ml_engineer,2026-05-12T23:33:52Z,https://www.adzuna.de/details/5727351541?utm_medium=api&utm_source=8c0e11bf
+DE,eschbach GmbH,Machine Learning Engineer - Remote (all genders),"Bad Säckingen, Waldshut (Kreis)",ml_engineer,2026-05-20T18:47:17Z,https://www.adzuna.de/details/5735272053?utm_medium=api&utm_source=8c0e11bf
+DE,eschbach GmbH,Machine Learning Engineer - Remote (all genders),"Bad Säckingen, Waldshut (Kreis)",ml_engineer,2026-04-24T10:28:18Z,https://www.adzuna.de/details/5709216149?utm_medium=api&utm_source=8c0e11bf
+DE,flaschenpost,Machine Learning Engineer (m/w/d) – MLOps & Software Engineering,"Münster, Nordrhein-Westfalen",ml_engineer,2026-04-12T22:42:25Z,https://www.adzuna.de/details/5697646509?utm_medium=api&utm_source=8c0e11bf
+DE,happyhotel,Engineering Manager - AI & Agentic Product (m/w/d),"Offenburg, Ortenaukreis",ml_engineer,2026-05-07T22:40:39Z,https://www.adzuna.de/details/5722055157?utm_medium=api&utm_source=8c0e11bf
+DE,netgo,Azure Data Engineer (m/w/d),Deutschland,data_engineer,2026-03-20T14:35:31Z,https://www.adzuna.de/details/5673099181?utm_medium=api&utm_source=8c0e11bf
+DE,netgo group GmbH,Azure Data Engineer (m/w/d),"Hamburg, Deutschland",data_engineer,2026-01-08T19:14:07Z,https://www.adzuna.de/details/5574048600?utm_medium=api&utm_source=8c0e11bf
+DE,netgo group GmbH,Azure Data Engineer (m/w/d),"Berlin, Deutschland",data_engineer,2026-01-08T19:14:07Z,https://www.adzuna.de/details/5574048591?utm_medium=api&utm_source=8c0e11bf
+DE,netgo group GmbH,Azure Data Platform Engineer (m/w/d),"Frankfurt am Main, Hessen",data_engineer,2026-01-07T03:12:36Z,https://www.adzuna.de/details/5570829528?utm_medium=api&utm_source=8c0e11bf
+DE,netgo group GmbH,Azure Data Platform Engineer (m/w/d),"Borken, Borken (Kreis)",data_engineer,2026-04-02T21:05:17Z,https://www.adzuna.de/details/5687654197?utm_medium=api&utm_source=8c0e11bf
+DE,netgo group GmbH,Azure Data Platform Engineer (m/w/d),"Mannheim, Baden-Württemberg",data_engineer,2026-04-02T21:05:18Z,https://www.adzuna.de/details/5687654242?utm_medium=api&utm_source=8c0e11bf
+DE,netgo group GmbH,Azure Data Platform Engineer (m/w/d),"Köln, Nordrhein-Westfalen",data_engineer,2026-01-07T03:12:36Z,https://www.adzuna.de/details/5570829536?utm_medium=api&utm_source=8c0e11bf
+DE,netgo group GmbH,Azure Data Platform Engineer (m/w/d),"Berlin, Deutschland",data_engineer,2026-01-07T03:12:36Z,https://www.adzuna.de/details/5570829544?utm_medium=api&utm_source=8c0e11bf
+DE,plusYOU Projects GmbH,IT Data Engineer (m/w/d),"Elmshorn, Pinneberg (Kreis)",data_engineer,2026-05-21T03:36:17Z,https://www.adzuna.de/details/5735803061?utm_medium=api&utm_source=8c0e11bf
+DE,ramblr.ai,Junior Machine Learning/AI Engineer,"Großhesselohe, München (Kreis)",ml_engineer,2026-05-12T22:28:42Z,https://www.adzuna.de/details/5727094343?utm_medium=api&utm_source=8c0e11bf
+DE,ruhr24,Cloud & Data Engineer (w/m/d),"Mitte, Dortmund",data_engineer,2026-05-12T23:21:45Z,https://www.adzuna.de/details/5727339720?utm_medium=api&utm_source=8c0e11bf
+DE,sikwel,Trainee Data Engineer,"Oldenburg, Oldenburg (Kreis)",data_engineer,2026-05-12T22:40:46Z,https://www.adzuna.de/details/5727210409?utm_medium=api&utm_source=8c0e11bf
+DE,sikwel,Data Engineer (w/m/d),"Oldenburg, Oldenburg (Kreis)",data_engineer,2026-05-12T22:44:38Z,https://www.adzuna.de/details/5727253166?utm_medium=api&utm_source=8c0e11bf
+DE,sikwel GmbH,Trainee Data Engineer,"Bloherfelde, Oldenburg",data_engineer,2024-08-23T17:13:16Z,https://www.adzuna.de/details/4837249061?utm_medium=api&utm_source=8c0e11bf
+DE,sikwel GmbH,Data Engineer (w/m/d),"Bloherfelde, Oldenburg",data_engineer,2022-07-02T10:22:20Z,https://www.adzuna.de/details/3283039336?utm_medium=api&utm_source=8c0e11bf
+DE,smartclip Europe GmbH,Data Engineer (f/m/d) - TV,"Mitte, Berlin",data_engineer,2026-03-09T21:07:13Z,https://www.adzuna.de/details/5659586286?utm_medium=api&utm_source=8c0e11bf
+DE,smava,Data Engineer (f/m/d),"Berlin, Deutschland",data_engineer,2026-04-30T23:07:59Z,https://www.adzuna.de/details/5714843102?utm_medium=api&utm_source=8c0e11bf
+DE,statworx,(Junior) Machine Learning Engineer (m/w/d),"Fechenheim, Frankfurt am Main",ml_engineer,2026-05-12T22:53:44Z,https://www.adzuna.de/details/5727293599?utm_medium=api&utm_source=8c0e11bf
+DE,super.AI,Machine Learning Engineer,"Mitte, Berlin",ml_engineer,2024-09-20T14:08:17Z,https://www.adzuna.de/details/4870511989?utm_medium=api&utm_source=8c0e11bf
+DE,super.AI,Machine Learning Engineer,"Mitte, Berlin",ml_engineer,2026-05-12T23:21:42Z,https://www.adzuna.de/details/5727339683?utm_medium=api&utm_source=8c0e11bf
+DE,super.AI,Full-Stack Software Engineer,"Mitte, Berlin",ml_engineer,2024-09-20T14:06:25Z,https://www.adzuna.de/details/4870509654?utm_medium=api&utm_source=8c0e11bf
+DE,taod Consulting,Data Engineer (m/w/d),Deutschland,data_engineer,2026-05-12T22:44:44Z,https://www.adzuna.de/details/5727253851?utm_medium=api&utm_source=8c0e11bf
+DE,taod Consulting,Junior Data Engineer (m/w/d),"Köln, Nordrhein-Westfalen",data_engineer,2026-05-12T23:01:48Z,https://www.adzuna.de/details/5727309755?utm_medium=api&utm_source=8c0e11bf
+DE,taod Consulting,Data Engineer/Scientist (m/w/d),Deutschland,data_engineer,2026-05-12T23:08:29Z,https://www.adzuna.de/details/5727322764?utm_medium=api&utm_source=8c0e11bf
+DE,technotrans SE,SAP Data Engineer (m/w/d),"Sassenberg, Warendorf (Kreis)",data_engineer,2026-05-17T16:51:18Z,https://www.adzuna.de/land/ad/5732431335?se=jGlTRPFb8RG1g60cORqbZQ&utm_medium=api&utm_source=8c0e11bf&v=64E8D4D248FD9475956CDCB62C667199EE02157A
+DE,vhh.mobility,Professional Data Engineer,"Altengamme, Hamburg",data_engineer,2026-05-20T23:20:37Z,https://www.adzuna.de/details/5735591671?utm_medium=api&utm_source=8c0e11bf
+DE,workidentity,Data Analyst / Data Engineer (gn),"Altona-Altstadt, Hamburg",data_engineer,2026-05-23T23:10:41Z,https://www.adzuna.de/details/5739175057?utm_medium=api&utm_source=8c0e11bf
+DE,workidentity GmbH,Data Analyst / Data Engineer (gn),"Brinckmansdorf, Rostock",data_engineer,2026-05-22T10:41:29Z,https://www.adzuna.de/details/5737439777?utm_medium=api&utm_source=8c0e11bf
+NL,AND Digital,Data Engineer (Amsterdam),"Amsterdam, Noord-Holland",data_engineer,2026-01-22T19:31:49Z,https://www.adzuna.nl/details/5595654063?utm_medium=api&utm_source=8c0e11bf
+NL,AND Digital,Data Engineer (Contract),"Amsterdam, Noord-Holland",data_engineer,2026-05-18T18:38:57Z,https://www.adzuna.nl/details/5733269714?utm_medium=api&utm_source=8c0e11bf
+NL,ANWB,Scrum Master Datateams - Data AI,"Oostduinen, Den Haag",data_engineer,2026-01-09T08:24:57Z,https://www.adzuna.nl/details/5575564982?utm_medium=api&utm_source=8c0e11bf
+NL,ASML,Physics | Data Engineering internship: defectivity data pipelines and dashboards,Nederland,data_engineer,2026-04-18T03:46:37Z,https://www.adzuna.nl/details/5703147948?utm_medium=api&utm_source=8c0e11bf
+NL,ASML,Data Science | Engineering internship: clamp performance modeling,Nederland,data_engineer,2026-05-22T03:27:23Z,https://www.adzuna.nl/details/5737091150?utm_medium=api&utm_source=8c0e11bf
+NL,Action,Data Scientist,"Wervershoof, Medemblik",ml_engineer,2026-05-16T06:50:47Z,https://www.adzuna.nl/details/5731101080?utm_medium=api&utm_source=8c0e11bf
+NL,Adyen,Data Engineer,"Amsterdam, Noord-Holland",data_engineer,2026-05-19T03:24:47Z,https://www.adzuna.nl/details/5733597935?utm_medium=api&utm_source=8c0e11bf
+NL,Adyen,Data Center Engineer,"Amsterdam, Noord-Holland",data_engineer,2026-02-01T01:35:42Z,https://www.adzuna.nl/details/5608017652?utm_medium=api&utm_source=8c0e11bf
+NL,Adyen,"Engineering Manager, Protect Core","Amsterdam, Noord-Holland",ml_engineer,2026-03-04T02:17:16Z,https://www.adzuna.nl/details/5653146951?utm_medium=api&utm_source=8c0e11bf
+NL,Air Apps,Data Engineer,"Amsterdam, Noord-Holland",data_engineer,2026-04-30T03:22:23Z,https://www.adzuna.nl/details/5714079567?utm_medium=api&utm_source=8c0e11bf
+NL,Air Apps,AI Product Manager,"Amsterdam, Noord-Holland",ml_engineer,2026-04-29T03:21:18Z,https://www.adzuna.nl/details/5713139556?utm_medium=api&utm_source=8c0e11bf
+NL,Air Apps,AI/ML Engineer,"Amsterdam, Noord-Holland",ml_engineer,2026-04-29T03:32:34Z,https://www.adzuna.nl/details/5713156877?utm_medium=api&utm_source=8c0e11bf
+NL,All About Work,Data engineer deta-vast,"Rotterdam, Zuid-Holland",data_engineer,2026-05-22T16:43:47Z,https://www.adzuna.nl/details/5737716592?utm_medium=api&utm_source=8c0e11bf
+NL,All About Work,Data-Analist / (Junior) Data-Engineer,"Lichtenvoorde, Oost Gelre",data_engineer,2026-05-28T16:48:52Z,https://www.adzuna.nl/details/5743556009?utm_medium=api&utm_source=8c0e11bf
+NL,Alliander,Senior Data Engineer,"Arnhem, Gelderland",data_engineer,2026-05-03T03:27:13Z,https://www.adzuna.nl/details/5717446552?utm_medium=api&utm_source=8c0e11bf
+NL,Alliander,Afstudeeropdracht Semantische Ontsluiting van Dataproducten,"Arnhem, Gelderland",data_engineer,2026-05-08T03:29:41Z,https://www.adzuna.nl/details/5722349699?utm_medium=api&utm_source=8c0e11bf
+NL,Axians,Data & AI Engineer,"Zaltbommel, Gelderland",data_engineer,2026-05-27T03:58:45Z,https://www.adzuna.nl/details/5741828429?utm_medium=api&utm_source=8c0e11bf
+NL,Ayvens,Data Engineer met BI Focus,Nederland,data_engineer,2026-05-19T03:25:25Z,https://www.adzuna.nl/details/5733599112?utm_medium=api&utm_source=8c0e11bf
+NL,Banen bij,"BI, Data & AI Engineer","Linschoten, Montfoort",data_engineer,2026-05-12T03:19:34Z,https://www.adzuna.nl/details/5726339024?utm_medium=api&utm_source=8c0e11bf
+NL,Bonana,Data Engineer bij BONANA,"Rivierenwijk, Utrecht",data_engineer,2026-05-13T03:27:58Z,https://www.adzuna.nl/details/5727501698?utm_medium=api&utm_source=8c0e11bf
+NL,Bright Professionals,Data-Analist / Junior Data-Engineer,"Oost Gelre, Gelderland",data_engineer,2026-05-28T07:35:33Z,https://www.adzuna.nl/details/5743142370?utm_medium=api&utm_source=8c0e11bf
+NL,Bynder,Machine Learning Engineer,"Amsterdam, Noord-Holland",ml_engineer,2026-02-22T01:58:48Z,https://www.adzuna.nl/details/5640667001?utm_medium=api&utm_source=8c0e11bf
+NL,Bynder,AI Research Intern,"Rotterdam, Zuid-Holland",ml_engineer,2026-05-30T03:27:36Z,https://www.adzuna.nl/details/5745092366?utm_medium=api&utm_source=8c0e11bf
+NL,CGI Nederland,Data Engineer – Energietransitie,"Rotterdam, Zuid-Holland",data_engineer,2025-09-26T19:44:46Z,https://www.adzuna.nl/details/5415985446?utm_medium=api&utm_source=8c0e11bf
+NL,CGI Nederland,Data Engineer - Spoordomein,"Rotterdam, Zuid-Holland",data_engineer,2025-09-26T19:44:46Z,https://www.adzuna.nl/details/5415985479?utm_medium=api&utm_source=8c0e11bf
+NL,CGI Nederland,Data Engineers - Diverse branches,Nederland,data_engineer,2025-12-17T20:59:09Z,https://www.adzuna.nl/details/5546250884?utm_medium=api&utm_source=8c0e11bf
+NL,CGI Nederland,Data Engineer – Energy transition,"Rotterdam, Zuid-Holland",data_engineer,2025-09-26T19:44:46Z,https://www.adzuna.nl/details/5415985450?utm_medium=api&utm_source=8c0e11bf
+NL,CGI Nederland,Junior Data Engineer - Manufacturing,Nederland,data_engineer,2025-12-12T20:51:13Z,https://www.adzuna.nl/details/5540252226?utm_medium=api&utm_source=8c0e11bf
+NL,CGI Nederland,Azure Data Engineer - Banking,"Amsterdam, Noord-Holland",data_engineer,2025-12-16T21:04:48Z,https://www.adzuna.nl/details/5544844611?utm_medium=api&utm_source=8c0e11bf
+NL,CGI Nederland,Linked Data Engineer - Medior,Nederland,data_engineer,2026-03-03T22:46:32Z,https://www.adzuna.nl/details/5652883030?utm_medium=api&utm_source=8c0e11bf
+NL,CGI Nederland,Linked Data Engineer - Maastricht,"Maastricht, Limburg",data_engineer,2026-03-03T22:46:34Z,https://www.adzuna.nl/details/5652883065?utm_medium=api&utm_source=8c0e11bf
+NL,CGI Nederland,Data Engineer - Verzekeringen & Pensioenen,Nederland,data_engineer,2025-04-25T10:56:47Z,https://www.adzuna.nl/details/5162003520?utm_medium=api&utm_source=8c0e11bf
+NL,CGI Nederland,Data Engineer (Linked Data) - Defensie Unit,Nederland,data_engineer,2025-10-01T19:28:43Z,https://www.adzuna.nl/details/5424741021?utm_medium=api&utm_source=8c0e11bf
+NL,CGI Nederland,Medior/Senior Data Engineer - Manufacturing,Nederland,data_engineer,2026-03-18T22:51:29Z,https://www.adzuna.nl/details/5671282573?utm_medium=api&utm_source=8c0e11bf
+NL,CGI Nederland,Data Engineer – Openbaar Vervoer Sector,"Utrecht, Provincie Utrecht",data_engineer,2025-09-23T19:43:02Z,https://www.adzuna.nl/details/5412278944?utm_medium=api&utm_source=8c0e11bf
+NL,CGI Nederland,Data & AI Platform Engineer,Nederland,data_engineer,2026-01-30T22:15:20Z,https://www.adzuna.nl/details/5606842800?utm_medium=api&utm_source=8c0e11bf
+NL,CGI Nederland,AI Engineer,Nederland,ml_engineer,2025-12-02T19:54:25Z,https://www.adzuna.nl/details/5524618869?utm_medium=api&utm_source=8c0e11bf
+NL,Centennium,Data Engineer,"Voorburg, Leidschendam-Voorburg",data_engineer,2026-04-15T02:05:51Z,https://www.adzuna.nl/details/5699479488?utm_medium=api&utm_source=8c0e11bf
+NL,Centric,Medior Data Engineer - Digitale Overheid,"Westergouwe, Gouda",data_engineer,2026-05-01T10:19:54Z,https://www.adzuna.nl/details/5715622806?utm_medium=api&utm_source=8c0e11bf
+NL,Certe Groep,Data Engineer,"Nieuwlande, Coevorden",data_engineer,2026-04-25T03:14:27Z,https://www.adzuna.nl/details/5709850985?utm_medium=api&utm_source=8c0e11bf
+NL,Checkout.com,MLOps Engineer I,"Amsterdam, Noord-Holland",ml_engineer,2026-05-07T03:35:37Z,https://www.adzuna.nl/details/5721070285?utm_medium=api&utm_source=8c0e11bf
+NL,Code First Girls,Junior Data Engineer,Nederland,data_engineer,2026-05-03T03:26:25Z,https://www.adzuna.nl/details/5717445975?utm_medium=api&utm_source=8c0e11bf
+NL,Code First Girls,Entry Level Data Analyst,Nederland,data_engineer,2026-05-19T03:22:41Z,https://www.adzuna.nl/details/5733595008?utm_medium=api&utm_source=8c0e11bf
+NL,Code First Girls,Entry Level Data Analyst,"Utrecht, Provincie Utrecht",data_engineer,2026-05-19T01:15:39Z,https://www.adzuna.nl/details/5733529165?utm_medium=api&utm_source=8c0e11bf
+NL,Coinmerce,Data Engineer,"Aalsmeerderbrug, Haarlemmermeer",data_engineer,2026-05-26T03:26:28Z,https://www.adzuna.nl/details/5740859761?utm_medium=api&utm_source=8c0e11bf
+NL,Conference Compass,Data Integration Engineer,"Bezuidenhout, Den Haag",data_engineer,2026-05-12T03:17:27Z,https://www.adzuna.nl/details/5726335335?utm_medium=api&utm_source=8c0e11bf
+NL,Croonwolter&dros,Project Engineer,"Amersfoort, Provincie Utrecht",data_engineer,2026-04-10T10:31:47Z,https://www.adzuna.nl/land/ad/5695425735?se=UiNFUPFb8RGUJNJexxfy6Q&utm_medium=api&utm_source=8c0e11bf&v=D38CA04274E2311EC3F5E450479F3F081D5EE995
+NL,Croonwolter&dros,BIM Modelleur,Nederland,data_engineer,2025-10-15T07:41:03Z,https://www.adzuna.nl/land/ad/5448000168?se=UiNFUPFb8RGUJNJexxfy6Q&utm_medium=api&utm_source=8c0e11bf&v=ABED97E9BB4E77E2227E94FD90EE9095EDC8904C
+NL,Croonwolter&dros,BIM Modelleur,"Amsterdam, Noord-Holland",data_engineer,2026-03-07T13:23:22Z,https://www.adzuna.nl/land/ad/5657597942?se=UiNFUPFb8RGUJNJexxfy6Q&utm_medium=api&utm_source=8c0e11bf&v=F9C93859502540716A43C416954F1F5B6312999D
+NL,Croonwolter&dros,Project Engineer,Nederland,data_engineer,2025-10-15T07:41:03Z,https://www.adzuna.nl/land/ad/5448000098?se=UiNFUPFb8RGUJNJexxfy6Q&utm_medium=api&utm_source=8c0e11bf&v=2C3CE2E1E8C296F419B356281F4B9D753B8351A3
+NL,Croonwolter&dros,BIM Coördinator,Nederland,data_engineer,2025-09-30T07:41:18Z,https://www.adzuna.nl/land/ad/5421590477?se=UiNFUPFb8RGUJNJexxfy6Q&utm_medium=api&utm_source=8c0e11bf&v=4FB92009E5BD1C8CABD9A67B9C0E19BB980692C3
+NL,Croonwolter&dros,BIM Modelleur,Nederland,data_engineer,2025-12-02T09:35:23Z,https://www.adzuna.nl/land/ad/5523678658?se=UiNFUPFb8RGUJNJexxfy6Q&utm_medium=api&utm_source=8c0e11bf&v=484E4852983B1A0D09B3AF0A6E6753D0D761B2B1
+NL,Croonwolter&dros,Project Engineer,Nederland,data_engineer,2025-12-02T09:35:23Z,https://www.adzuna.nl/land/ad/5523678660?se=UiNFUPFb8RGUJNJexxfy6Q&utm_medium=api&utm_source=8c0e11bf&v=A30E072E83D02CC1AA900B11F505316441F3740F
+NL,CuspAI,Applied ML Researcher (Force Fields and Simulation),Nederland,ml_engineer,2026-05-07T03:31:32Z,https://www.adzuna.nl/details/5721054117?utm_medium=api&utm_source=8c0e11bf
+NL,DAS,Medior Data Engineer,"Zuidoost, Amsterdam",data_engineer,2026-05-20T07:00:47Z,https://www.adzuna.nl/details/5734825271?utm_medium=api&utm_source=8c0e11bf
+NL,DBR,Data Engineer,"Rijswijk, Zuid-Holland",data_engineer,2024-09-20T13:48:26Z,https://www.adzuna.nl/details/4870489055?utm_medium=api&utm_source=8c0e11bf
+NL,DMG Sanitair,Data engineer (e-commerce),"Waalwijk, Noord-Brabant",data_engineer,2026-05-19T15:12:27Z,https://www.adzuna.nl/details/5734090518?utm_medium=api&utm_source=8c0e11bf
+NL,DPG Media,Python Software Developer,"Hilversum, Noord-Holland",data_engineer,2026-04-29T15:00:24Z,https://www.adzuna.nl/details/5713670216?utm_medium=api&utm_source=8c0e11bf
+NL,Daiwa House Modular Europe Group BV,"BI, Data & AI Engineer","Linschoten, Montfoort",data_engineer,2026-04-30T00:16:18Z,https://www.adzuna.nl/details/5713957072?utm_medium=api&utm_source=8c0e11bf
+NL,Darktrace,Data Engineer,Nederland,data_engineer,2026-04-09T03:34:16Z,https://www.adzuna.nl/details/5693969396?utm_medium=api&utm_source=8c0e11bf
+NL,Dataiku,Data Engineer II,Nederland,data_engineer,2026-04-22T03:24:43Z,https://www.adzuna.nl/details/5706668600?utm_medium=api&utm_source=8c0e11bf
+NL,Dept,Intern Data Engineer,Nederland,data_engineer,2026-04-30T03:17:24Z,https://www.adzuna.nl/details/5714060271?utm_medium=api&utm_source=8c0e11bf
+NL,Dura Vermeer,AI Engineer,"Rotterdam, Zuid-Holland",ml_engineer,2026-02-26T09:20:23Z,https://www.adzuna.nl/land/ad/5645945344?se=0krRXfFb8RG1g60cORqbZQ&utm_medium=api&utm_source=8c0e11bf&v=78FAEB8280DFBE67940D46CB5EE65040B8F03BE2
+NL,EIFFEL,Data Engineer,"Amsterdam, Noord-Holland",data_engineer,2026-05-27T03:27:49Z,https://www.adzuna.nl/details/5741778885?utm_medium=api&utm_source=8c0e11bf
+NL,EIFFEL,Data engineer (in opleiding),"Hilversum, Noord-Holland",data_engineer,2026-05-30T03:28:56Z,https://www.adzuna.nl/details/5745095471?utm_medium=api&utm_source=8c0e11bf
+NL,EIFFEL,Data engineer (in opleiding),"Utrecht, Provincie Utrecht",data_engineer,2026-05-30T03:28:57Z,https://www.adzuna.nl/details/5745095507?utm_medium=api&utm_source=8c0e11bf
+NL,EIFFEL,Data engineer (in opleiding),"Amsterdam, Noord-Holland",data_engineer,2026-05-30T03:28:56Z,https://www.adzuna.nl/details/5745095495?utm_medium=api&utm_source=8c0e11bf
+NL,"EMW, Inc.",C004854 Machine Learning Engineer (NS) - THU 4 Jun,"Den Haag, Zuid-Holland",ml_engineer,2026-05-20T15:44:40Z,https://www.adzuna.nl/details/5735230591?utm_medium=api&utm_source=8c0e11bf
+NL,Eneco,Full-Stack Data Engineer - APO,Nederland,data_engineer,2026-01-21T09:30:12Z,https://www.adzuna.nl/land/ad/5593810835?se=clIoS_Fb8RGbGvW-bcCcHA&utm_medium=api&utm_source=8c0e11bf&v=A91AAA2660C3C435D450ACC215DEDC4938B7F4CC
+NL,Eneco,Full-Stack Data Engineer Energy Management,Nederland,data_engineer,2026-02-04T06:00:21Z,https://www.adzuna.nl/land/ad/5613200469?se=clIoS_Fb8RGbGvW-bcCcHA&utm_medium=api&utm_source=8c0e11bf&v=45308FA9A938F46F950E3176ED3865DDB9B46C67
+NL,Eneco,Full-Stack Data Engineer Finance& Data Operations (FDO),Nederland,data_engineer,2026-04-05T08:48:25Z,https://www.adzuna.nl/land/ad/5690465138?se=clIoS_Fb8RGbGvW-bcCcHA&utm_medium=api&utm_source=8c0e11bf&v=B83DA7B44AA1D424A002079D0A1CD005902FBEFE
+NL,Enexis,(Afstudeer)stage Data Science Engineer - Enexis Graduate Program,"Cromvoirt, Vught",data_engineer,2026-04-22T03:05:15Z,https://www.adzuna.nl/details/5706639951?utm_medium=api&utm_source=8c0e11bf
+NL,Evos,Group BI Data Engineer (fulltime),"Westpoort, Amsterdam",data_engineer,2026-05-20T03:29:21Z,https://www.adzuna.nl/details/5734615621?utm_medium=api&utm_source=8c0e11bf
+NL,FYGI,Data Engineer,"Amstelveen, Noord-Holland",data_engineer,2026-03-05T02:39:24Z,https://www.adzuna.nl/details/5654533654?utm_medium=api&utm_source=8c0e11bf
+NL,Fourthline,Product Manager - Biometric,Nederland,ml_engineer,2026-03-27T02:02:22Z,https://www.adzuna.nl/details/5679816830?utm_medium=api&utm_source=8c0e11bf
+NL,Freshminds,Data Engineering Consultant,"Leiden, Zuid-Holland",data_engineer,2025-12-31T01:12:08Z,https://www.adzuna.nl/details/5560547755?utm_medium=api&utm_source=8c0e11bf
+NL,Friday Digital Agency,Data Engineer,"Collendoorn, Hardenberg",data_engineer,2026-03-03T02:09:28Z,https://www.adzuna.nl/details/5651868354?utm_medium=api&utm_source=8c0e11bf
+NL,Fugro,Medior Data Engineer – Databricks & Lakehouse Platform (Cloud),Nederland,data_engineer,2026-04-11T03:41:29Z,https://www.adzuna.nl/details/5696222154?utm_medium=api&utm_source=8c0e11bf
+NL,GeekSoft Consulting,Data Engineer,Nederland,data_engineer,2026-05-06T22:29:31Z,https://www.adzuna.nl/details/5720750516?utm_medium=api&utm_source=8c0e11bf
+NL,GeekSoft Consulting,Data Engineer,Nederland,data_engineer,2026-05-19T20:41:40Z,https://www.adzuna.nl/details/5734243352?utm_medium=api&utm_source=8c0e11bf
+NL,Good Company,Data Engineer,"Utrecht, Provincie Utrecht",data_engineer,2025-01-23T02:00:43Z,https://www.adzuna.nl/details/5020397040?utm_medium=api&utm_source=8c0e11bf
+NL,Goodman,Controls Engineer Data Centres,"Amsterdam, Noord-Holland",data_engineer,2025-11-02T21:04:21Z,https://www.adzuna.nl/details/5477413825?utm_medium=api&utm_source=8c0e11bf
+NL,Google,Data Center Mechanical Engineer,"Eemshaven, Eemsmond",data_engineer,2026-05-17T06:56:58Z,https://www.adzuna.nl/land/ad/5732161525?se=UiNFUPFb8RGUJNJexxfy6Q&utm_medium=api&utm_source=8c0e11bf&v=883FBDAAA326530A4F92628AEFED3A03D797E02C
+NL,Google,Data Center Mechanical Engineer,Nederland,data_engineer,2026-05-17T03:22:34Z,https://www.adzuna.nl/details/5731977901?utm_medium=api&utm_source=8c0e11bf
+NL,Google,"Forward Deployed Engineer, Applied AI, Google Cloud","Amsterdam, Noord-Holland",ml_engineer,2026-05-20T06:58:06Z,https://www.adzuna.nl/land/ad/5734822680?se=TLy6VvFb8RGbGvW-bcCcHA&utm_medium=api&utm_source=8c0e11bf&v=7A4EB34706B3478014C8A41050ABC94BDC84873D
+NL,Heijmans,Data-engineer,"Rosmalen, 's-Hertogenbosch",data_engineer,2026-03-03T09:19:08Z,https://www.adzuna.nl/land/ad/5652163746?se=clIoS_Fb8RGbGvW-bcCcHA&utm_medium=api&utm_source=8c0e11bf&v=99071AC7E2C8A86692AFED24B903990E49E0FEC0
+NL,Hot ITem Groep,Medior Data Engineer,Nederland,data_engineer,2026-03-12T12:40:04Z,https://www.adzuna.nl/details/5662333048?utm_medium=api&utm_source=8c0e11bf
+NL,Hot ITem Groep,Managed Services Data Engineer,Nederland,data_engineer,2026-02-19T15:07:51Z,https://www.adzuna.nl/details/5636047400?utm_medium=api&utm_source=8c0e11bf
+NL,Hot ITem Groep,AI Engineer,Nederland,ml_engineer,2026-02-24T15:23:13Z,https://www.adzuna.nl/details/5643648100?utm_medium=api&utm_source=8c0e11bf
+NL,Huawei R&D Sites in Belgium and the Netherlands,语音交互分析实习生（中文母语）/ Intern - Speech Interaction Analyst (Chinese Speaker),Nederland,ml_engineer,2026-01-29T01:37:05Z,https://www.adzuna.nl/details/5604128166?utm_medium=api&utm_source=8c0e11bf
+NL,IMC,Machine Learning Engineer - Crypto,Nederland,ml_engineer,2025-10-11T21:25:49Z,https://www.adzuna.nl/details/5443319539?utm_medium=api&utm_source=8c0e11bf
+NL,ITIS Projects,Data Engineer | Randstad,"Barendrecht, Zuid-Holland",data_engineer,2026-04-18T08:31:00Z,https://www.adzuna.nl/details/5703389065?utm_medium=api&utm_source=8c0e11bf
+NL,ITProposal,Data Engineer - 10719021,"Amsterdam, Noord-Holland",data_engineer,2026-04-28T07:16:44Z,https://www.adzuna.nl/details/5712443665?utm_medium=api&utm_source=8c0e11bf
+NL,ITProposal,Data Engineer - 10752354,"Amsterdam, Noord-Holland",data_engineer,2026-05-16T07:29:58Z,https://www.adzuna.nl/details/5731123995?utm_medium=api&utm_source=8c0e11bf
+NL,ITProposal,AWS Developer / Data Engineer,"Amsterdam, Noord-Holland",data_engineer,2026-05-03T07:26:19Z,https://www.adzuna.nl/details/5717646270?utm_medium=api&utm_source=8c0e11bf
+NL,ITProposal,Aws Serverless Data Engineer,"Amsterdam, Noord-Holland",data_engineer,2026-04-14T07:31:52Z,https://www.adzuna.nl/details/5698692386?utm_medium=api&utm_source=8c0e11bf
+NL,ITProposal,Azure Data Engineer – Contract,"Amsterdam, Noord-Holland",data_engineer,2026-05-03T07:26:19Z,https://www.adzuna.nl/details/5717646272?utm_medium=api&utm_source=8c0e11bf
+NL,ITProposal,Azure Data Engineer / Developer -10726978,"Amsterdam, Noord-Holland",data_engineer,2026-05-08T07:21:40Z,https://www.adzuna.nl/details/5722614278?utm_medium=api&utm_source=8c0e11bf
+NL,ITProposal,Snowflake Data Engineer – RBAC & Automation -10676735,"Amsterdam, Noord-Holland",data_engineer,2026-05-08T07:21:40Z,https://www.adzuna.nl/details/5722614281?utm_medium=api&utm_source=8c0e11bf
+NL,ITProposal,AI / Machine Learning Engineer,"Amsterdam, Noord-Holland",data_engineer,2026-04-17T07:23:36Z,https://www.adzuna.nl/details/5702239307?utm_medium=api&utm_source=8c0e11bf
+NL,ITProposal,Data Governance Engineer / Collibra Developer-10728884,"Amsterdam, Noord-Holland",data_engineer,2026-05-08T07:21:40Z,https://www.adzuna.nl/details/5722614284?utm_medium=api&utm_source=8c0e11bf
+NL,In Person,Data Scientist,"Schiphol, Haarlemmermeer",ml_engineer,2026-02-06T02:05:24Z,https://www.adzuna.nl/details/5616552950?utm_medium=api&utm_source=8c0e11bf
+NL,Independent Recruiters,Data Engineer (Dutch speaking),"Zuidoost, Amsterdam",data_engineer,2026-01-10T08:20:15Z,https://www.adzuna.nl/details/5577591418?utm_medium=api&utm_source=8c0e11bf
+NL,Itproposal,Neo4j & Azure Data Developer-10667150,"Amsterdam, Noord-Holland",data_engineer,2026-04-15T07:27:41Z,https://www.adzuna.nl/details/5699797873?utm_medium=api&utm_source=8c0e11bf
+NL,Itproposal,Neo4j & Azure Data Developer,"Amsterdam, Noord-Holland",data_engineer,2026-04-10T07:25:06Z,https://www.adzuna.nl/details/5695314433?utm_medium=api&utm_source=8c0e11bf
+NL,Jelling,Data Engineer,"Utrecht, Provincie Utrecht",data_engineer,2025-12-02T12:23:24Z,https://www.adzuna.nl/details/5523790807?utm_medium=api&utm_source=8c0e11bf
+NL,Jelling,Data Engineer,"Stramproy, Weert",data_engineer,2025-11-10T23:40:11Z,https://www.adzuna.nl/details/5489926553?utm_medium=api&utm_source=8c0e11bf
+NL,JetBrains,Research Engineer (Kineto),Nederland,ml_engineer,2026-05-13T03:26:31Z,https://www.adzuna.nl/details/5727496520?utm_medium=api&utm_source=8c0e11bf
+NL,Jobgether,Data Engineer,"Veldhoven, Noord-Brabant",data_engineer,2026-05-28T03:25:39Z,https://www.adzuna.nl/details/5742848239?utm_medium=api&utm_source=8c0e11bf
+NL,Jobpertunity,Data Engineer (Netherlands) Visahousing provided,"Utrecht, Provincie Utrecht",data_engineer,2026-03-20T15:13:51Z,https://www.adzuna.nl/details/5673125256?utm_medium=api&utm_source=8c0e11bf
+NL,Jobpertunity,AI / Machine Learning Engineer (Netherlands) housing visa provided,"Amsterdam, Noord-Holland",ml_engineer,2026-03-20T15:13:51Z,https://www.adzuna.nl/details/5673125249?utm_medium=api&utm_source=8c0e11bf
+NL,Jumbo,Medior Data Platform Engineer,Nederland,data_engineer,2026-05-29T03:26:22Z,https://www.adzuna.nl/details/5744096413?utm_medium=api&utm_source=8c0e11bf
+NL,Jump Trading,Quantitative Researcher | Trading Team,"Amsterdam, Noord-Holland",ml_engineer,2024-08-27T12:59:49Z,https://www.adzuna.nl/details/4841050499?utm_medium=api&utm_source=8c0e11bf
+NL,Just Eat,Marketing Analytical Engineer,"Amsterdam, Noord-Holland",ml_engineer,2026-05-24T03:28:16Z,https://www.adzuna.nl/details/5739311898?utm_medium=api&utm_source=8c0e11bf
+NL,KPN,Data Warehouse Engineer - CISO Reporting & Analytics,Nederland,data_engineer,2026-01-08T09:18:41Z,https://www.adzuna.nl/details/5573523708?utm_medium=api&utm_source=8c0e11bf
+NL,KRUSH Labs B.V.,Technical Recruiter,"Eindhoven, Noord-Brabant",ml_engineer,2026-04-22T13:29:56Z,https://www.adzuna.nl/details/5707078538?utm_medium=api&utm_source=8c0e11bf
+NL,Kyndryl,AI/ML Engineer - Azure Platform Modernization,"Hoofddorp, Haarlemmermeer",ml_engineer,2026-05-21T06:58:38Z,https://www.adzuna.nl/land/ad/5736053232?se=0krRXfFb8RG1g60cORqbZQ&utm_medium=api&utm_source=8c0e11bf&v=323CE056E997B65EA694B00790E4398775341598
+NL,Kyndryl,AI/ML Engineer – Azure Platform Modernization,Nederland,ml_engineer,2026-05-30T03:25:47Z,https://www.adzuna.nl/details/5745090227?utm_medium=api&utm_source=8c0e11bf
+NL,Leap29,Data Centre Engineer,Nederland,data_engineer,2026-04-19T04:07:11Z,https://www.adzuna.nl/details/5704133391?utm_medium=api&utm_source=8c0e11bf
+NL,Leap29,Automation Engineer - Data Centre,Nederland,data_engineer,2026-04-19T03:30:02Z,https://www.adzuna.nl/details/5704092384?utm_medium=api&utm_source=8c0e11bf
+NL,MaxAccelerate,AI Technical Recruiter/Business Development Manager (AI POD Solutions),"Amsterdam, Noord-Holland",ml_engineer,2025-09-26T15:22:44Z,https://www.adzuna.nl/details/5415359119?utm_medium=api&utm_source=8c0e11bf
+NL,Mollie,Product Delivery Manager - Mollie Capital,"Amsterdam, Noord-Holland",ml_engineer,2026-05-28T03:27:28Z,https://www.adzuna.nl/details/5742851389?utm_medium=api&utm_source=8c0e11bf
+NL,Momentum,Medior Software Engineer,"Oud West, Amsterdam",ml_engineer,2024-10-20T19:20:25Z,https://www.adzuna.nl/details/4908210430?utm_medium=api&utm_source=8c0e11bf
+NL,Monks,Data Engineer,"Amsterdam, Noord-Holland",data_engineer,2025-10-23T21:41:16Z,https://www.adzuna.nl/details/5461404973?utm_medium=api&utm_source=8c0e11bf
+NL,NN Group,Data Engineer bij BeFrank,Nederland,data_engineer,2026-04-26T03:15:24Z,https://www.adzuna.nl/details/5710725264?utm_medium=api&utm_source=8c0e11bf
+NL,NN Group,Machine Learning Operations Engineer,Nederland,ml_engineer,2026-03-11T02:21:01Z,https://www.adzuna.nl/details/5661154675?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Mechanical Engineer - Data Centers,Nederland,data_engineer,2026-02-04T01:37:49Z,https://www.adzuna.nl/details/5612609894?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,ML Engineer - Life Sciences (Early Talent),"Aalsmeer, Noord-Holland",ml_engineer,2026-05-09T13:17:49Z,https://www.adzuna.nl/land/ad/5724088766?se=0krRXfFb8RG1g60cORqbZQ&utm_medium=api&utm_source=8c0e11bf&v=06C853F059F7C65CB6695864A70CAECBF83D6436
+NL,Nebius,ML Engineer - Life Sciences (Early Talent),"Hoofddorp, Haarlemmermeer",ml_engineer,2026-05-09T13:17:49Z,https://www.adzuna.nl/land/ad/5724088767?se=0krRXfFb8RG1g60cORqbZQ&utm_medium=api&utm_source=8c0e11bf&v=7DBB54BAE6F20B345233FB4242E32B05A9F32D9D
+NL,Nebius,ML Engineer - Life Sciences (Early Talent),"Zaandam, Zaanstad",ml_engineer,2026-05-09T13:17:49Z,https://www.adzuna.nl/land/ad/5724088747?se=0krRXfFb8RG1g60cORqbZQ&utm_medium=api&utm_source=8c0e11bf&v=26129EC9276730B93BF5A4F63050EE847B15DD1C
+NL,Nebius,ML Engineer - Life Sciences (Early Talent),"Hilversum, Noord-Holland",ml_engineer,2026-05-09T13:17:49Z,https://www.adzuna.nl/land/ad/5724088752?se=0krRXfFb8RG1g60cORqbZQ&utm_medium=api&utm_source=8c0e11bf&v=C8AB8AD99BFE285EE45125719A89792694536CA8
+NL,Nebius,ML Engineer - Life Sciences (Early Talent),"Purmerend, Noord-Holland",ml_engineer,2026-05-09T13:17:49Z,https://www.adzuna.nl/land/ad/5724088748?se=0krRXfFb8RG1g60cORqbZQ&utm_medium=api&utm_source=8c0e11bf&v=30861143DC26BE36BF4308F968CE1E7A7CD2CF62
+NL,Nebius,ML Engineer - Life Sciences (Early Talent),"Almere, Flevoland",ml_engineer,2026-05-09T13:17:49Z,https://www.adzuna.nl/land/ad/5724088745?se=0krRXfFb8RG1g60cORqbZQ&utm_medium=api&utm_source=8c0e11bf&v=FC8152BFC0ECE48F26163EF8C77015DE591099B5
+NL,Nebius,ML Engineer - Life Sciences (Early Talent),"Amstelveen, Noord-Holland",ml_engineer,2026-05-09T13:17:49Z,https://www.adzuna.nl/land/ad/5724088759?se=0krRXfFb8RG1g60cORqbZQ&utm_medium=api&utm_source=8c0e11bf&v=DE36FCBFB27576C43D63135B9849AA44EEFB2051
+NL,Nebius,ML Engineer - Life Sciences (Early Talent),"Haarlem, Noord-Holland",ml_engineer,2026-05-09T13:17:49Z,https://www.adzuna.nl/land/ad/5724088751?se=0krRXfFb8RG1g60cORqbZQ&utm_medium=api&utm_source=8c0e11bf&v=D0E9893B41337EA09498C7B723003B595CCB7CC7
+NL,Nebius,ML Engineer - Life Sciences (Early Talent),"Uithoorn, Noord-Holland",ml_engineer,2026-05-09T13:17:49Z,https://www.adzuna.nl/land/ad/5724088760?se=0krRXfFb8RG1g60cORqbZQ&utm_medium=api&utm_source=8c0e11bf&v=0C815D47166ABDA78289C42E0FF3D2519B349955
+NL,Nebius,ML Engineer - Life Sciences (Early Talent),"Amsterdam, Noord-Holland",ml_engineer,2026-05-09T13:17:49Z,https://www.adzuna.nl/land/ad/5724088741?se=0krRXfFb8RG1g60cORqbZQ&utm_medium=api&utm_source=8c0e11bf&v=0FE9C2C736369B0B0A03C8A92BCAF3888C84E874
+NL,Nebius,ML Engineer - Life Sciences (Early Talent),Nederland,ml_engineer,2026-03-18T02:01:58Z,https://www.adzuna.nl/details/5670178714?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Technical Product Manager - Soperator,Nederland,ml_engineer,2025-12-19T01:28:36Z,https://www.adzuna.nl/details/5547894058?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,System Engineer (Compute Node),Nederland,ml_engineer,2025-02-01T19:06:26Z,https://www.adzuna.nl/details/5033296793?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Software Engineer (Early Talent),Nederland,ml_engineer,2026-03-18T02:03:30Z,https://www.adzuna.nl/details/5670183081?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,HPC System Engineer,Nederland,ml_engineer,2025-12-13T01:00:31Z,https://www.adzuna.nl/details/5540418090?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Operational Excellence Manager,Nederland,ml_engineer,2026-04-30T03:22:17Z,https://www.adzuna.nl/details/5714079119?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Incident Manager,Nederland,ml_engineer,2025-11-12T16:56:50Z,https://www.adzuna.nl/details/5492435269?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Technical Project Manager (Turnups and Setup of Operations),Nederland,ml_engineer,2026-04-04T03:07:54Z,https://www.adzuna.nl/details/5689379488?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Technical Writer (Data Center),Nederland,ml_engineer,2026-04-04T03:07:05Z,https://www.adzuna.nl/details/5689377780?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,UX Writer - Console,Nederland,ml_engineer,2026-04-11T03:31:00Z,https://www.adzuna.nl/details/5696182189?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Enterprise Network Engineer,Nederland,ml_engineer,2026-05-06T03:26:31Z,https://www.adzuna.nl/details/5719956337?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Data Center - Service Delivery Manager,Nederland,ml_engineer,2025-09-13T21:16:27Z,https://www.adzuna.nl/details/5397852149?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Security Operations Center Analyst,Nederland,ml_engineer,2025-07-01T15:46:35Z,https://www.adzuna.nl/details/5277478287?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Technical Recruiter,Nederland,ml_engineer,2026-05-16T03:22:34Z,https://www.adzuna.nl/details/5730949768?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,General Accounting Specialist,Nederland,ml_engineer,2026-04-12T03:35:32Z,https://www.adzuna.nl/details/5697090529?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Automations Engineer,Nederland,ml_engineer,2026-05-02T03:29:10Z,https://www.adzuna.nl/details/5716461134?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,AI Full-Stack Developer,Nederland,ml_engineer,2026-05-13T03:29:56Z,https://www.adzuna.nl/details/5727507677?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Engineering Manager (Hardware Automation),Nederland,ml_engineer,2025-11-28T20:33:19Z,https://www.adzuna.nl/details/5518381085?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,IT Supply Operations Specialist,Nederland,ml_engineer,2026-05-29T03:26:16Z,https://www.adzuna.nl/details/5744096175?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Technical Program Manager - New Data Center Launches,Nederland,ml_engineer,2026-03-21T02:03:11Z,https://www.adzuna.nl/details/5673682907?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Technical Project Manager,Nederland,ml_engineer,2026-03-14T02:01:27Z,https://www.adzuna.nl/details/5664373321?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Network Engineer (AI Infrastructure) Early Career,Nederland,ml_engineer,2026-03-18T01:59:48Z,https://www.adzuna.nl/details/5670172828?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Sales Compensation & Incentive Programs Manager,Nederland,ml_engineer,2026-04-03T03:05:30Z,https://www.adzuna.nl/details/5688086783?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,L3 Support Engineer,Nederland,ml_engineer,2025-08-20T18:08:35Z,https://www.adzuna.nl/details/5360312519?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Sales Operations Specialist,Nederland,ml_engineer,2026-03-19T02:04:54Z,https://www.adzuna.nl/details/5671463379?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Legal Counsel,Nederland,ml_engineer,2026-04-17T03:56:39Z,https://www.adzuna.nl/details/5702076375?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Enterprise Applications Engineer,Nederland,ml_engineer,2026-04-18T03:28:53Z,https://www.adzuna.nl/details/5703112877?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Ethics & Compliance Specialist,Nederland,ml_engineer,2026-04-04T03:08:51Z,https://www.adzuna.nl/details/5689381637?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,GTM Recruiter - EMEA,Nederland,ml_engineer,2026-04-02T03:06:53Z,https://www.adzuna.nl/details/5686633888?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Legal Admin Assistant,Nederland,ml_engineer,2026-05-30T03:27:49Z,https://www.adzuna.nl/details/5745092630?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Help Desk Technician (Tier 1),Nederland,ml_engineer,2025-11-06T16:48:18Z,https://www.adzuna.nl/details/5484041339?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Site Reliability Engineer (SRE) AI Infrastructure (Early Career),Nederland,ml_engineer,2026-03-18T02:00:25Z,https://www.adzuna.nl/details/5670173812?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Employer Branding Specialist,Nederland,ml_engineer,2026-04-17T03:40:21Z,https://www.adzuna.nl/details/5702049520?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Team Assistant – Corporate Development,Nederland,ml_engineer,2026-04-10T03:30:43Z,https://www.adzuna.nl/details/5695059360?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Site Selection & Colocation Manager – Data Centers,Nederland,ml_engineer,2025-12-04T21:50:46Z,https://www.adzuna.nl/details/5528304586?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Technical Project Manager (Hardware),Nederland,ml_engineer,2026-05-20T03:31:17Z,https://www.adzuna.nl/details/5734620054?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Fixed Assets Accountant,Nederland,ml_engineer,2026-05-23T03:27:47Z,https://www.adzuna.nl/details/5738240676?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Regional IT Operations Manager - Data Centers,Nederland,ml_engineer,2026-02-07T01:36:20Z,https://www.adzuna.nl/details/5618209999?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Account Executive - Benelux,Nederland,ml_engineer,2026-02-02T01:32:42Z,https://www.adzuna.nl/details/5609488275?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Treasury Back-Office Specialist,Nederland,ml_engineer,2026-05-09T03:32:12Z,https://www.adzuna.nl/details/5723674088?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Cloud Engineer (Early Talent Program),Nederland,ml_engineer,2026-04-01T03:04:26Z,https://www.adzuna.nl/details/5684641805?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Corporate Development Manager,Nederland,ml_engineer,2026-04-19T04:07:21Z,https://www.adzuna.nl/details/5704134189?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Treasury Manager (Mid Office),Nederland,ml_engineer,2026-04-17T03:52:10Z,https://www.adzuna.nl/details/5702062819?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Group Reporting Specialist,Nederland,ml_engineer,2026-05-17T03:23:06Z,https://www.adzuna.nl/details/5731980920?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Product Manager - Public Notifications & Communications,Nederland,ml_engineer,2026-05-09T03:28:34Z,https://www.adzuna.nl/details/5723658205?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Technical Project Manager - Security,Nederland,ml_engineer,2026-05-10T03:42:42Z,https://www.adzuna.nl/details/5724771723?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Healthcare Solutions Partner - EMEA,Nederland,ml_engineer,2026-05-23T03:27:20Z,https://www.adzuna.nl/details/5738239598?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Product Operations Specialist (Early Talent Program),Nederland,ml_engineer,2026-05-02T03:19:49Z,https://www.adzuna.nl/details/5716428194?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Employer Branding Manager,Nederland,ml_engineer,2025-10-03T21:20:43Z,https://www.adzuna.nl/details/5430097324?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Ethics and Compliance Operations Specialist,Nederland,ml_engineer,2026-05-21T03:24:05Z,https://www.adzuna.nl/details/5735735419?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Team Assistant - Enterprise Technologies,Nederland,ml_engineer,2026-05-22T03:23:46Z,https://www.adzuna.nl/details/5737084587?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Group Product Manager - Security,Nederland,ml_engineer,2026-03-06T02:10:15Z,https://www.adzuna.nl/details/5655762379?utm_medium=api&utm_source=8c0e11bf
+NL,Nebius,Risk Manager,Nederland,ml_engineer,2026-05-09T03:23:58Z,https://www.adzuna.nl/details/5723639610?utm_medium=api&utm_source=8c0e11bf
+NL,Nederlandse Loterij,Platform Data Engineer,"Rijswijk, Zuid-Holland",data_engineer,2026-04-30T01:33:38Z,https://www.adzuna.nl/details/5713997667?utm_medium=api&utm_source=8c0e11bf
+NL,Nederlandse Spoorwegen,Data Engineer Team Reisbegeleiding (Dutch speaking only),"Utrecht, Provincie Utrecht",data_engineer,2026-05-22T13:15:33Z,https://www.adzuna.nl/land/ad/5737556097?se=BCp3TPFb8RGUJNJexxfy6Q&utm_medium=api&utm_source=8c0e11bf&v=65B18FABEA611E04D53C27F31BDD221199A1B69C
+NL,Neways Electronics International NV,Data Engineer,"Son, Son en Breugel",data_engineer,2026-05-13T07:00:42Z,https://www.adzuna.nl/details/5727710320?utm_medium=api&utm_source=8c0e11bf
+NL,OfferZen,Data Engineer,"Rotterdam, Zuid-Holland",data_engineer,2022-11-30T15:03:41Z,https://www.adzuna.nl/details/3733356649?utm_medium=api&utm_source=8c0e11bf
+NL,OfferZen,Data Engineer,"Den Haag, Zuid-Holland",data_engineer,2023-02-16T14:35:23Z,https://www.adzuna.nl/details/3928380281?utm_medium=api&utm_source=8c0e11bf
+NL,OfferZen,Data Engineer,"Utrecht, Provincie Utrecht",data_engineer,2022-11-30T15:03:44Z,https://www.adzuna.nl/details/3733357028?utm_medium=api&utm_source=8c0e11bf
+NL,OfferZen,Data Engineer,"Amsterdam, Noord-Holland",data_engineer,2022-10-28T10:49:17Z,https://www.adzuna.nl/details/3633240287?utm_medium=api&utm_source=8c0e11bf
+NL,OfferZen,Data Engineer,"Delft, Zuid-Holland",data_engineer,2023-02-16T14:35:20Z,https://www.adzuna.nl/details/3928379529?utm_medium=api&utm_source=8c0e11bf
+NL,OfferZen,Data Engineer,"Eindhoven, Noord-Brabant",data_engineer,2023-02-16T14:35:22Z,https://www.adzuna.nl/details/3928379897?utm_medium=api&utm_source=8c0e11bf
+NL,Ohpen,Data Governance & Data Management Engineer,"Oud Zuid, Amsterdam",data_engineer,2026-05-26T03:27:48Z,https://www.adzuna.nl/details/5740862061?utm_medium=api&utm_source=8c0e11bf
+NL,Oliver James Associates,Data Engineer,"Utrecht, Provincie Utrecht",data_engineer,2026-05-12T08:30:56Z,https://www.adzuna.nl/details/5726553486?utm_medium=api&utm_source=8c0e11bf
+NL,Openred,Cloud Data AI Engineer,"Rubroek, Rotterdam",data_engineer,2026-03-22T02:01:01Z,https://www.adzuna.nl/details/5674732220?utm_medium=api&utm_source=8c0e11bf
+NL,Openred,Data Scientist,"Rubroek, Rotterdam",ml_engineer,2026-03-22T02:00:35Z,https://www.adzuna.nl/details/5674731558?utm_medium=api&utm_source=8c0e11bf
+NL,Optiver,Enterprise Data Engineer,Nederland,data_engineer,2026-04-11T03:41:15Z,https://www.adzuna.nl/details/5696221168?utm_medium=api&utm_source=8c0e11bf
+NL,PVH,Marketing Data Engineer,"Amsterdam, Noord-Holland",data_engineer,2026-05-23T02:34:09Z,https://www.adzuna.nl/details/5738203345?utm_medium=api&utm_source=8c0e11bf
+NL,PVH,Marketing Data Engineer,Nederland,data_engineer,2025-12-23T01:19:25Z,https://www.adzuna.nl/details/5552439130?utm_medium=api&utm_source=8c0e11bf
+NL,PVH Corp.,Marketing Data Engineer,"Amsterdam, Noord-Holland",data_engineer,2026-03-11T05:23:27Z,https://www.adzuna.nl/land/ad/5661272979?se=clIoS_Fb8RGbGvW-bcCcHA&utm_medium=api&utm_source=8c0e11bf&v=BF4E5EEFB5953DAB1533C021787D77A1EC914913
+NL,PVH Corp.,Data Product Owner,"Amsterdam, Noord-Holland",data_engineer,2026-05-10T07:03:23Z,https://www.adzuna.nl/land/ad/5724889317?se=UiNFUPFb8RGUJNJexxfy6Q&utm_medium=api&utm_source=8c0e11bf&v=B9A538248680962ED1A71A3735EDC905FA71C6EA
+NL,Philips,Data Scientist – Agentic AI Engineer,Nederland,ml_engineer,2026-05-13T03:31:32Z,https://www.adzuna.nl/details/5727514447?utm_medium=api&utm_source=8c0e11bf
+NL,Picnic,Machine Learning Platform Engineer,Nederland,ml_engineer,2026-04-11T03:37:05Z,https://www.adzuna.nl/details/5696205016?utm_medium=api&utm_source=8c0e11bf
+NL,Precedence,Consultant Data Engineer,"Maastricht, Limburg",data_engineer,2026-05-04T06:47:53Z,https://www.adzuna.nl/details/5718413003?utm_medium=api&utm_source=8c0e11bf
+NL,RebelsAI,Machine Learning Engineer,"Agniesebuurt, Rotterdam",ml_engineer,2026-05-05T06:50:40Z,https://www.adzuna.nl/details/5719142043?utm_medium=api&utm_source=8c0e11bf
+NL,RevoData,Data Platform Engineer,"Amsterdam, Noord-Holland",data_engineer,2026-04-19T19:34:56Z,https://www.adzuna.nl/details/5704604924?utm_medium=api&utm_source=8c0e11bf
+NL,RevoData,Technical Instructor,"Amsterdam, Noord-Holland",ml_engineer,2026-05-20T18:57:25Z,https://www.adzuna.nl/details/5735286297?utm_medium=api&utm_source=8c0e11bf
+NL,RevoData,Databricks AI Engineer,"Amsterdam, Noord-Holland",ml_engineer,2026-04-14T12:54:45Z,https://www.adzuna.nl/details/5698909691?utm_medium=api&utm_source=8c0e11bf
+NL,STAFIDE,XML Data Automation Engineer (ID: 3765),Nederland,data_engineer,2026-05-22T18:56:53Z,https://www.adzuna.nl/details/5737746755?utm_medium=api&utm_source=8c0e11bf
+NL,Salute,Data Center NOC Engineer,"Binnenstad, Amsterdam",data_engineer,2026-04-11T03:30:51Z,https://www.adzuna.nl/details/5696181969?utm_medium=api&utm_source=8c0e11bf
+NL,Samba,Software Engineer - Data Integration,"Amsterdam, Noord-Holland",data_engineer,2026-05-22T03:23:31Z,https://www.adzuna.nl/details/5737084059?utm_medium=api&utm_source=8c0e11bf
+NL,Samba,Software Engineer - Data Integration,"Amsterdam, Noord-Holland",data_engineer,2026-05-22T03:23:23Z,https://www.adzuna.nl/details/5737083737?utm_medium=api&utm_source=8c0e11bf
+NL,Schuberg Philis,Proposition Ambassador - Data & AI,Nederland,ml_engineer,2026-01-22T01:29:51Z,https://www.adzuna.nl/details/5594834234?utm_medium=api&utm_source=8c0e11bf
+NL,ScreenPoint Medical,Data Engineer,"Heilig Landstichting, Groesbeek",data_engineer,2026-01-30T01:33:34Z,https://www.adzuna.nl/details/5605577173?utm_medium=api&utm_source=8c0e11bf
+NL,ScreenPoint Medical,AI Research Engineer,"Heilig Landstichting, Groesbeek",ml_engineer,2026-03-25T02:01:02Z,https://www.adzuna.nl/details/5677534573?utm_medium=api&utm_source=8c0e11bf
+NL,Serco,Data Engineer-Washington DC,"Amsterdam, Noord-Holland",data_engineer,2026-05-08T06:53:54Z,https://www.adzuna.nl/land/ad/5722569324?se=BCp3TPFb8RGUJNJexxfy6Q&utm_medium=api&utm_source=8c0e11bf&v=E84C50B033B8169A215C18DA6C47DE310E69D546
+NL,Sia,Consultant Data Engineer,"Agniesebuurt, Rotterdam",data_engineer,2026-05-05T05:03:09Z,https://www.adzuna.nl/details/5719062409?utm_medium=api&utm_source=8c0e11bf
+NL,Sia,Consultant Data Engineer,"Maastricht, Limburg",data_engineer,2026-05-05T05:03:09Z,https://www.adzuna.nl/details/5719062419?utm_medium=api&utm_source=8c0e11bf
+NL,Sia,Data Engineer Consultant,"Binnenstad, Amsterdam",data_engineer,2026-05-05T05:03:09Z,https://www.adzuna.nl/details/5719062429?utm_medium=api&utm_source=8c0e11bf
+NL,Sia,Senior Data Engineer Consultant,"Maastricht, Limburg",data_engineer,2026-05-05T05:03:09Z,https://www.adzuna.nl/details/5719062425?utm_medium=api&utm_source=8c0e11bf
+NL,Snap,Working Student - Machine Learning,Nederland,ml_engineer,2026-04-13T05:02:37Z,https://www.adzuna.nl/details/5697840777?utm_medium=api&utm_source=8c0e11bf
+NL,Snap Inc.,Working Student - Machine Learning,"Eindhoven, Noord-Brabant",ml_engineer,2026-04-12T06:36:43Z,https://www.adzuna.nl/land/ad/5697267532?se=0AtwVfFb8RGobtSHcEIOiA&utm_medium=api&utm_source=8c0e11bf&v=944FE22D4F3C622AF87CF62A1BE82D1600FF50A5
+NL,Sollicitatie voor AI & Data Engineer bij WPP Media,AI & Data Engineer,Nederland,data_engineer,2026-05-14T03:19:38Z,https://www.adzuna.nl/details/5728629179?utm_medium=api&utm_source=8c0e11bf
+NL,Solvism,Data Engineer,"Utrecht, Provincie Utrecht",data_engineer,2025-03-31T12:41:30Z,https://www.adzuna.nl/details/5119720947?utm_medium=api&utm_source=8c0e11bf
+NL,Solvism,Junior Data Engineer - Azure,"Den Haag, Zuid-Holland",data_engineer,2025-03-31T12:41:28Z,https://www.adzuna.nl/details/5119720906?utm_medium=api&utm_source=8c0e11bf
+NL,Solvism,Junior Data Engineer (Cloud & AI) – Bouw mee aan slimme data-oplossingen,Nederland,data_engineer,2025-10-28T20:42:39Z,https://www.adzuna.nl/details/5468504674?utm_medium=api&utm_source=8c0e11bf
+NL,Spektrum,Machine Learning Engineer,Nederland,ml_engineer,2026-05-23T03:28:28Z,https://www.adzuna.nl/details/5738243403?utm_medium=api&utm_source=8c0e11bf
+NL,Sterk in Matches B.V.,Voertuig Data Engineer - Noordwijkerhout,"Noordwijkerhout, Zuid-Holland",data_engineer,2026-05-04T06:49:24Z,https://www.adzuna.nl/details/5718416376?utm_medium=api&utm_source=8c0e11bf
+NL,Subduxion,Platform Engineer SaaS,Nederland,ml_engineer,2026-05-15T03:22:28Z,https://www.adzuna.nl/details/5729906197?utm_medium=api&utm_source=8c0e11bf
+NL,Synsel Techniek,Data Engineer,"Gouda, Zuid-Holland",data_engineer,2026-05-07T16:51:51Z,https://www.adzuna.nl/details/5721768593?utm_medium=api&utm_source=8c0e11bf
+NL,Synsel Techniek,Manager Data Engineering,"Sittard, Sittard-Geleen",data_engineer,2026-05-07T16:52:08Z,https://www.adzuna.nl/details/5721770601?utm_medium=api&utm_source=8c0e11bf
+NL,Synsel Techniek,Mechanisch Data-Applicatie Engineer,"Doetinchem, Gelderland",data_engineer,2026-05-07T16:51:47Z,https://www.adzuna.nl/details/5721768037?utm_medium=api&utm_source=8c0e11bf
+NL,Synsel Techniek,Machine Learning Software Engineer,"Amsterdam, Noord-Holland",ml_engineer,2026-05-07T16:52:07Z,https://www.adzuna.nl/details/5721770444?utm_medium=api&utm_source=8c0e11bf
+NL,Talent Safari,Machine Learning Engineer,"Amsterdam, Noord-Holland",ml_engineer,2026-04-25T03:17:24Z,https://www.adzuna.nl/details/5709855850?utm_medium=api&utm_source=8c0e11bf
+NL,Team4Code,Machine Learning Engineer,"Zielhorst, Amersfoort",data_engineer,2025-11-15T17:47:55Z,https://www.adzuna.nl/details/5497390039?utm_medium=api&utm_source=8c0e11bf
+NL,The Trainee Company,Junior Data Engineer,"Drachten, Smallingerland",data_engineer,2026-05-17T06:55:18Z,https://www.adzuna.nl/details/5732159491?utm_medium=api&utm_source=8c0e11bf
+NL,The Trainee Company,Junior Data Engineer,"Leeuwarden, Friesland",data_engineer,2026-05-01T10:16:49Z,https://www.adzuna.nl/details/5715621497?utm_medium=api&utm_source=8c0e11bf
+NL,Thermeleon B.V.,Data Engineer / Scientist - Working Student / Intern,"Spangen, Rotterdam",data_engineer,2026-04-28T16:27:10Z,https://www.adzuna.nl/details/5712794763?utm_medium=api&utm_source=8c0e11bf
+NL,UbiOps,Full-stack AI Engineer,"Bezuidenhout, Den Haag",ml_engineer,2026-03-12T22:22:05Z,https://www.adzuna.nl/details/5662930125?utm_medium=api&utm_source=8c0e11bf
+NL,Uncommon People,Data en AI engineer,Nederland,data_engineer,2026-03-08T02:26:27Z,https://www.adzuna.nl/details/5658241109?utm_medium=api&utm_source=8c0e11bf
+NL,Unica,Data Engineer,"Deventer, Overijssel",data_engineer,2026-03-14T05:23:59Z,https://www.adzuna.nl/details/5664762407?utm_medium=api&utm_source=8c0e11bf
+NL,Van Spaendonck,Data Engineer,"Riel, Goirle",data_engineer,2026-04-18T03:59:53Z,https://www.adzuna.nl/details/5703161600?utm_medium=api&utm_source=8c0e11bf
+NL,Vektis,Data Engineer / Data Platform Specialist – Zorgdata (Denodo & Microsoft Fabric) - Zeist,"Zeist, Provincie Utrecht",data_engineer,2026-05-19T15:12:27Z,https://www.adzuna.nl/details/5734090618?utm_medium=api&utm_source=8c0e11bf
+NL,Ventas Engineering,Proposal Engineer - Data Center,Nederland,data_engineer,2026-04-02T03:04:08Z,https://www.adzuna.nl/details/5686621323?utm_medium=api&utm_source=8c0e11bf
+NL,WEBB Traders BV,Data Engineer - Operations,"Amsterdam, Noord-Holland",data_engineer,2026-05-26T07:02:16Z,https://www.adzuna.nl/details/5740985297?utm_medium=api&utm_source=8c0e11bf
+NL,WEBB Traders BV,Internship Data Engineering - Finance,"Amsterdam, Noord-Holland",data_engineer,2026-05-20T07:00:47Z,https://www.adzuna.nl/details/5734825260?utm_medium=api&utm_source=8c0e11bf
+NL,WEBB Traders BV,Junior/Medior Data Engineer - Finance,"Amsterdam, Noord-Holland",data_engineer,2026-05-25T07:01:20Z,https://www.adzuna.nl/details/5740215380?utm_medium=api&utm_source=8c0e11bf
+NL,WKL Consultancy,EU | Data Engineer | Nieuwegein | Consultancy | 95k,Nederland,data_engineer,2026-05-19T20:41:35Z,https://www.adzuna.nl/details/5734243312?utm_medium=api&utm_source=8c0e11bf
+NL,WLG,Data Engineer for NATO with secuirity clearance,"Den Haag, Zuid-Holland",data_engineer,2026-05-14T22:31:30Z,https://www.adzuna.nl/details/5729556420?utm_medium=api&utm_source=8c0e11bf
+NL,WLG,Machine Learning Engineer for NATO with security clearance,"Den Haag, Zuid-Holland",ml_engineer,2026-05-23T22:30:18Z,https://www.adzuna.nl/details/5738996207?utm_medium=api&utm_source=8c0e11bf
+NL,Xebia Group,Data Engineer (NL),"Amsterdam, Noord-Holland",data_engineer,2026-05-27T07:04:55Z,https://www.adzuna.nl/details/5741936035?utm_medium=api&utm_source=8c0e11bf
+NL,Xebia Group,Databricks Data Engineer,"Amsterdam, Noord-Holland",data_engineer,2026-05-27T07:04:52Z,https://www.adzuna.nl/details/5741935836?utm_medium=api&utm_source=8c0e11bf
+NL,Xebia Group,Machine Learning Engineer,"Hilversum, Noord-Holland",ml_engineer,2026-04-11T06:34:25Z,https://www.adzuna.nl/details/5696369976?utm_medium=api&utm_source=8c0e11bf
+NL,adesso Netherlands,Data Engineer bij adesso bouw mee aan slimme dataplatforms,"Majellapark, Utrecht",data_engineer,2026-05-17T07:00:21Z,https://www.adzuna.nl/details/5732167653?utm_medium=api&utm_source=8c0e11bf
+NL,adidas,Intern - Digital Data Science and Analytics,"Amsterdam, Noord-Holland",ml_engineer,2026-05-29T02:28:35Z,https://www.adzuna.nl/details/5744032118?utm_medium=api&utm_source=8c0e11bf
+NL,alliander,Senior Data Engineer,"Arnhem, Gelderland",data_engineer,2026-05-15T11:02:08Z,https://www.adzuna.nl/land/ad/5730190857?se=clIoS_Fb8RGbGvW-bcCcHA&utm_medium=api&utm_source=8c0e11bf&v=4A1F66FE442E8D3B389A38669B112D48274A4228
+NL,alliander,AI Platform Engineer,"Haarlem, Noord-Holland",ml_engineer,2026-05-07T13:02:57Z,https://www.adzuna.nl/land/ad/5721572570?se=0krRXfFb8RG1g60cORqbZQ&utm_medium=api&utm_source=8c0e11bf&v=1FD10E393CA1F8EBF105ED52AE5A9995FE867401
+NL,eBay,Machine Learning Engineer,"Amsterdam, Noord-Holland",ml_engineer,2026-04-16T03:42:40Z,https://www.adzuna.nl/details/5700859223?utm_medium=api&utm_source=8c0e11bf
+NL,liander,Afstudeeropdracht Geautomatiseerde Datavragen uit de energieketen,"Arnhem, Gelderland",data_engineer,2026-05-15T11:02:35Z,https://www.adzuna.nl/land/ad/5730191446?se=GtUNT_Fb8RG1g60cORqbZQ&utm_medium=api&utm_source=8c0e11bf&v=80E31DE2087A3413B8E9F019B913B1C729AFA759
+NL,liander,Afstudeeropdracht Semantische Ontsluiting van Dataproducten,"Arnhem, Gelderland",data_engineer,2026-05-15T11:02:35Z,https://www.adzuna.nl/land/ad/5730191448?se=GtUNT_Fb8RG1g60cORqbZQ&utm_medium=api&utm_source=8c0e11bf&v=4989E22F803274C98E976C45A996EA0719DF35A9
+NL,myTomorrows,Data Engineer,Nederland,data_engineer,2025-12-19T01:39:28Z,https://www.adzuna.nl/details/5547912209?utm_medium=api&utm_source=8c0e11bf
+NL,,Microsoft Purview,"Amsterdam, Noord-Holland",data_engineer,2026-05-06T03:34:41Z,https://www.adzuna.nl/details/5719982149?utm_medium=api&utm_source=8c0e11bf
+NO,AtB AS,Data Engineer,TRONDHEIM,data_engineer,2026-04-30T15:39:13.371722+02:00,https://pam-stilling-feed.nav.no/api/v1/feedentry/26bc6b81-aa97-49da-b7a6-1c82ee34f761
+NO,Computas AS,Data Engineer / Data Platform Engineer - Computas AS,OSLO,data_engineer,2026-04-29T13:26:40.16598+02:00,https://pam-stilling-feed.nav.no/api/v1/feedentry/b7804bcb-634e-468d-80e3-34e676f9a7fb
+NO,Elevate Ocean As,Software/AI/Data Engineer,OSLO,data_engineer,2026-05-11T12:33:41.792439+02:00,https://pam-stilling-feed.nav.no/api/v1/feedentry/83154a96-bb0d-404d-bc5c-49a6d0abf5fe
+NO,Entur,Data Engineer,OSLO,data_engineer,2026-05-11T08:30:13.419019+02:00,https://pam-stilling-feed.nav.no/api/v1/feedentry/0da673ce-c8fb-4f33-b83a-fd40d9814d73
+NO,Tata Consultancy Services Limited,Snowflake Data Engineer,OSLO,data_engineer,2026-05-06T01:31:05.765102+02:00,https://pam-stilling-feed.nav.no/api/v1/feedentry/a88b717e-e4a6-43f7-bed0-453aaad3825e
+SE,ACADEMIC WORK SWEDEN AB,Machine Learning Engineer till tt2,Stockholm,ml_engineer,2026-05-28T15:34:59,https://arbetsformedlingen.se/platsbanken/annonser/31098443
+SE,ACADEMIC WORK SWEDEN AB,Developer Relations / Partner Engineer at a world-leading music platform,Stockholm,ml_engineer,2026-05-28T11:50:02,https://arbetsformedlingen.se/platsbanken/annonser/31095977
+SE,ACADEMIC WORK SWEDEN AB,Developer Relations / Partner Engineer till världsledande musikplattform,Stockholm,ml_engineer,2026-05-28T11:51:23,https://arbetsformedlingen.se/platsbanken/annonser/31095993
+SE,ACADEMIC WORK SWEDEN AB,Developer Relations / Partner Engineer till världsledande musikplattform,Stockholm,ml_engineer,2026-05-28T11:50:59,https://arbetsformedlingen.se/platsbanken/annonser/31095958
+SE,AFRY AB,AFRY Digital Services söker nästa kollega inom Data Engineering,Göteborg,data_engineer,2026-05-28T15:44:38,https://arbetsformedlingen.se/platsbanken/annonser/31098661
+SE,Academic Work Sweden AB,Data Engineer / Data Analyst till ANV Nordic,Stockholm,data_engineer,2026-05-25T16:50:04,https://arbetsformedlingen.se/platsbanken/annonser/31080684
+SE,Academic Work Sweden AB,Utvecklare med inriktning mot AI sökes till Umeå!,Umeå,data_engineer,2026-04-23T11:12:05,https://arbetsformedlingen.se/platsbanken/annonser/30945841
+SE,Academic Work Sweden AB,AI Engineer – Säkra AI-lösningar hos Tutus Data,Danderyd,data_engineer,2026-04-20T15:48:38,https://arbetsformedlingen.se/platsbanken/annonser/30930492
+SE,Academic Work Sweden AB,Edge AI Engineer,Lund,ml_engineer,2026-04-02T07:10:34,https://arbetsformedlingen.se/platsbanken/annonser/30854482
+SE,Aira Group AB,Data Engineer - Data Platform Team,Stockholm,data_engineer,2026-01-22T09:57:51,https://arbetsformedlingen.se/platsbanken/annonser/30504937
+SE,Amazon Data Services Sweden AB,Data Center Engineer,Katrineholm,data_engineer,2026-03-27T11:43:35,https://arbetsformedlingen.se/platsbanken/annonser/30811859
+SE,Ants Akademiskt Nätverk av Tekniska Studenter AB,Data Engineer till EKEN Financing Value Added Forestry,Stockholm,data_engineer,2026-04-28T16:03:57,https://arbetsformedlingen.se/platsbanken/annonser/30968807
+SE,Ants Akademiskt Nätverk av Tekniska Studenter AB,Data Analytics Engineer - HomeQ,Stockholm,data_engineer,2026-04-15T09:06:20,https://arbetsformedlingen.se/platsbanken/annonser/30906272
+SE,Ants Akademiskt Nätverk av Tekniska Studenter AB,AI Engineer till Axfood IT,Stockholm,ml_engineer,2026-04-14T10:17:29,https://arbetsformedlingen.se/platsbanken/annonser/30900515
+SE,Arm Sweden AB,Hardware DevOps Engineer,Lund,ml_engineer,2026-04-16T13:42:45,https://arbetsformedlingen.se/platsbanken/annonser/30914726
+SE,Axis Communications AB,"Software Engineer - Experienced, AI-Powered Video Search in Linköping",Linköping,ml_engineer,2026-04-30T11:21:51,https://arbetsformedlingen.se/platsbanken/annonser/30979256
+SE,Bravura Sverige AB,Data Engineer till Ramudden Global,Stockholm,data_engineer,2026-04-22T13:43:45,https://arbetsformedlingen.se/platsbanken/annonser/30941535
+SE,CDON AB,Data Engineer,Stockholm,data_engineer,2026-01-16T14:27:12,https://arbetsformedlingen.se/platsbanken/annonser/30482397
+SE,Cabeza Rekrytering och Konsulting AB,Data Engineer till Pågen,Malmö,data_engineer,2026-05-05T15:05:16,https://arbetsformedlingen.se/platsbanken/annonser/30997362
+SE,Castra Group AB,"Data Engineer med  modern stack (Databricks, Azure Data Factory & Azure)",Stockholm,data_engineer,2026-05-19T10:14:33,https://arbetsformedlingen.se/platsbanken/annonser/31052468
+SE,Celsus Engineering AB,Data Engineer,Stockholm,data_engineer,2026-05-21T12:21:25,https://arbetsformedlingen.se/platsbanken/annonser/31065405
+SE,Chas Visual Management AB,Bli en del av vårt Data Engineer-team!,Nacka,data_engineer,2026-05-19T10:46:50,https://arbetsformedlingen.se/platsbanken/annonser/31052638
+SE,Combitech AB,Data Specialist,Göteborg,data_engineer,2026-05-06T09:46:19,https://arbetsformedlingen.se/platsbanken/annonser/31000359
+SE,Combitech AB,Data Specialist,Göteborg,data_engineer,2026-05-06T09:45:55,https://arbetsformedlingen.se/platsbanken/annonser/31000330
+SE,Cubane Solutions AB,Applied AI Engineer,Stockholm,ml_engineer,2026-05-04T13:44:25,https://arbetsformedlingen.se/platsbanken/annonser/30989403
+SE,Cubane Solutions AB,Data Engineer,Stockholm,data_engineer,2026-05-26T12:02:35,https://arbetsformedlingen.se/platsbanken/annonser/31083754
+SE,DKR,Data Engineer,,data_engineer,2026-05-19T12:06:07,https://arbetsformedlingen.se/platsbanken/annonser/31053575
+SE,Deer Data AB,Junior Data Engineer,Solna,data_engineer,2026-05-19T07:01:55,https://arbetsformedlingen.se/platsbanken/annonser/31051057
+SE,EDAG Engineering Scandinavia AB,Data Analyst Engineer,Göteborg,data_engineer,2026-05-13T09:08:05,https://arbetsformedlingen.se/platsbanken/annonser/31033416
+SE,ESAB AB,Development Engineer-R&D Filler Metals (SAW),Göteborg,ml_engineer,2026-05-25T12:56:40,https://arbetsformedlingen.se/platsbanken/annonser/31078336
+SE,Eccera Professionals AB,Data Engineer,Linköping,data_engineer,2026-04-21T11:34:14,https://arbetsformedlingen.se/platsbanken/annonser/30934475
+SE,Eccera Professionals AB,Data Engineer,Stockholm,data_engineer,2026-04-20T15:22:17,https://arbetsformedlingen.se/platsbanken/annonser/30930181
+SE,EdZa AB,Data Engineer / Full-stack BI Consultant till Random Forest West AB,Göteborg,data_engineer,2026-04-09T12:47:01,https://arbetsformedlingen.se/platsbanken/annonser/30880598
+SE,Einride AB (publ),Machine Learning Engineer,Göteborg,ml_engineer,2026-05-27T10:27:25,https://arbetsformedlingen.se/platsbanken/annonser/31088493
+SE,Embark Studios AB,"Gameplay Engineer – Narrative Systems, LLMs & Creator Tools",Stockholm,ml_engineer,2026-01-28T09:57:46,https://arbetsformedlingen.se/platsbanken/annonser/30530186
+SE,Embark Studios AB,Data Scientist - Anti-cheat,Stockholm,ml_engineer,2026-05-26T08:20:12,https://arbetsformedlingen.se/platsbanken/annonser/31081786
+SE,Embark Studios AB,Gameplay AI / ML Engineer,Stockholm,ml_engineer,2026-05-26T08:02:20,https://arbetsformedlingen.se/platsbanken/annonser/31081660
+SE,Epiminds AB,AI Engineer,Sundbyberg,ml_engineer,2026-03-25T18:59:15,https://arbetsformedlingen.se/platsbanken/annonser/30801194
+SE,FPT Software Sverige AB,Senior Software Engineer (Full‑Stack / Cloud & Automation),Göteborg,ml_engineer,2026-05-05T12:17:50,https://arbetsformedlingen.se/platsbanken/annonser/30995487
+SE,Friday Väst AB,Data Engineer till bolag inom FinTech,Göteborg,data_engineer,2026-04-05T11:29:45,https://arbetsformedlingen.se/platsbanken/annonser/30864613
+SE,Gears of Leo AB,Machine Learning /MLOps Engineer,Stockholm,ml_engineer,2026-04-02T15:45:30,https://arbetsformedlingen.se/platsbanken/annonser/30861993
+SE,Happy Group AB,Data Engineer,Stockholm,data_engineer,2026-04-02T15:33:50,https://arbetsformedlingen.se/platsbanken/annonser/30861868
+SE,Hitachi Energy Sweden AB,Data Engineer,Ludvika,data_engineer,2026-04-03T16:37:10,https://arbetsformedlingen.se/platsbanken/annonser/30863625
+SE,IKEA Supply Services (Sweden) AB,Data Engineer,Älmhult,data_engineer,2026-05-21T15:57:00,https://arbetsformedlingen.se/platsbanken/annonser/31067547
+SE,Ikano Bank AB (publ),Engineer/Engineer Lead,Malmö,ml_engineer,2026-05-21T09:14:15,https://arbetsformedlingen.se/platsbanken/annonser/31063745
+SE,Infosys Technologies (Sweden) AB,Lead Consultant- Full Stack & Microsoft Technologies,Stockholm,ml_engineer,2026-05-12T08:24:40,https://arbetsformedlingen.se/platsbanken/annonser/31025880
+SE,IntuiCell AB,Research engineer,Lund,ml_engineer,2026-04-09T14:41:05,https://arbetsformedlingen.se/platsbanken/annonser/30881793
+SE,Keolis Sverige AB,Data Engineer,Stockholm,data_engineer,2026-02-27T14:00:12,https://arbetsformedlingen.se/platsbanken/annonser/30674554
+SE,Klarna Bank AB,Data Engineer,Stockholm,data_engineer,2026-03-24T10:36:45,https://arbetsformedlingen.se/platsbanken/annonser/30745422
+SE,Knowit AB (Publ),Data Engineer med intresse för Databricks,Malmö,data_engineer,2026-03-12T14:42:55,https://arbetsformedlingen.se/platsbanken/annonser/30737310
+SE,Knowit AB (Publ),Data Engineer till Knowit i Östersund,Östersund,data_engineer,2026-02-16T14:43:53,https://arbetsformedlingen.se/platsbanken/annonser/30618337
+SE,Knowit AB (Publ),Data Engineer with Databricks to Knowit,Göteborg,data_engineer,2026-04-09T10:44:07,https://arbetsformedlingen.se/platsbanken/annonser/30879489
+SE,Knowit AB (Publ),Data Engineer - Databricks to Knowit Stockholm,Stockholm,data_engineer,2026-04-15T10:37:22,https://arbetsformedlingen.se/platsbanken/annonser/30907158
+SE,Kraftsam Rekrytering & Bemanning AB,Data Engineer - Göteborg,Göteborg,data_engineer,2026-05-22T09:18:11,https://arbetsformedlingen.se/platsbanken/annonser/31069702
+SE,Kraftsam Rekrytering & Bemanning AB,Data Engineer - Stockholm,Stockholm,data_engineer,2026-05-22T09:16:42,https://arbetsformedlingen.se/platsbanken/annonser/31069683
+SE,Kraftsam Rekrytering & Bemanning AB,Machine Learning Engineer - Göteborg,Stockholm,ml_engineer,2026-05-22T09:19:59,https://arbetsformedlingen.se/platsbanken/annonser/31069729
+SE,Kraftsam Rekrytering & Bemanning AB,Machine Learning Engineer - Stockholm,Stockholm,ml_engineer,2026-05-22T09:19:40,https://arbetsformedlingen.se/platsbanken/annonser/31069725
+SE,Leapit Nordics AB,Machine Learning Engineer,Malmö,ml_engineer,2026-05-12T10:52:50,https://arbetsformedlingen.se/platsbanken/annonser/31027393
+SE,Liminity AB,"Data Engineer – Konsultuppdrag, Stockholm",Stockholm,data_engineer,2026-04-02T11:57:42,https://arbetsformedlingen.se/platsbanken/annonser/30859146
+SE,Lovable Labs Sweden AB,Security Engineer,Stockholm,ml_engineer,2026-05-18T11:05:25,https://arbetsformedlingen.se/platsbanken/annonser/31046675
+SE,Lovable Labs Sweden AB,Product Engineer,Stockholm,ml_engineer,2026-04-30T09:53:10,https://arbetsformedlingen.se/platsbanken/annonser/30977965
+SE,Lovable Labs Sweden AB,Design Engineer,Stockholm,ml_engineer,2026-03-05T09:43:50,https://arbetsformedlingen.se/platsbanken/annonser/30699042
+SE,Lovable Labs Sweden AB,AI Engineer,Stockholm,ml_engineer,2026-02-02T19:06:20,https://arbetsformedlingen.se/platsbanken/annonser/30554390
+SE,Lovable Labs Sweden AB,Design Engineer,Stockholm,ml_engineer,2025-12-22T10:48:25,https://arbetsformedlingen.se/platsbanken/annonser/30412959
+SE,Lovable Labs Sweden AB,Fullstack Product Engineer,Stockholm,ml_engineer,2025-12-22T10:38:00,https://arbetsformedlingen.se/platsbanken/annonser/30412675
+SE,Lovable Labs Sweden AB,Backend Product Engineer,Stockholm,ml_engineer,2025-12-22T10:33:10,https://arbetsformedlingen.se/platsbanken/annonser/30412627
+SE,Luossavaara-Kiirunavaara AB,Machine Learning/AI-Engineer,Gällivare,ml_engineer,2026-05-19T08:00:36,https://arbetsformedlingen.se/platsbanken/annonser/31051209
+SE,Modulai AB,Machine Learning Engineer ,Stockholm,ml_engineer,2026-02-23T09:12:05,https://arbetsformedlingen.se/platsbanken/annonser/30646235
+SE,MultiMind Holding AB,Verification Engineer to leading search engine company,Göteborg,ml_engineer,2026-05-28T11:44:53,https://arbetsformedlingen.se/platsbanken/annonser/31095920
+SE,Native Teams AB,Data Platform Engineer,Stockholm,data_engineer,2026-05-27T15:36:00,https://arbetsformedlingen.se/platsbanken/annonser/31091390
+SE,Nexer Tech Talent AB,FULLSTACK SOFTWARE ENGINEER INOM DATA & ANALYTICS TILL AXFOOD IT,Stockholm,data_engineer,2026-05-05T10:11:08,https://arbetsformedlingen.se/platsbanken/annonser/30993942
+SE,Nexer Tech Talent AB,TEST & VERIFICATION ENGINEER - DATA & ANALYSIS FOCUS,Göteborg,data_engineer,2026-05-13T15:51:18,https://arbetsformedlingen.se/platsbanken/annonser/31038445
+SE,Nexer Tech Talent AB,SOFTWARE ENGINEER AWS / AI TILL AXFOOD IT,Stockholm,ml_engineer,2026-05-05T10:10:30,https://arbetsformedlingen.se/platsbanken/annonser/30993930
+SE,Nordicrule AB,Data Engineer till innovativt techbolag,Stockholm,data_engineer,2026-05-07T17:20:53,https://arbetsformedlingen.se/platsbanken/annonser/31010677
+SE,Nordnet Bank AB,Data Engineer,Stockholm,data_engineer,2026-05-11T13:03:17,https://arbetsformedlingen.se/platsbanken/annonser/31022315
+SE,Northmill Bank AB,Data Engineer,Stockholm,data_engineer,2026-04-13T10:01:06,https://arbetsformedlingen.se/platsbanken/annonser/30893472
+SE,Paradox Interactive AB (publ),Data Engineer,Stockholm,data_engineer,2026-05-26T17:54:50,https://arbetsformedlingen.se/platsbanken/annonser/31086714
+SE,Polar Light Technologies AB,Data Platform Engineer,Linköping,data_engineer,2026-05-18T19:27:50,https://arbetsformedlingen.se/platsbanken/annonser/31050692
+SE,PostNord Group AB,"AI Engineer, Solna",Stockholm,ml_engineer,2026-05-26T09:28:57,https://arbetsformedlingen.se/platsbanken/annonser/31082290
+SE,Procruitment AB,Data Engineer,Stockholm,data_engineer,2026-04-02T16:28:29,https://arbetsformedlingen.se/platsbanken/annonser/30862396
+SE,Pågen AB,Data Engineer ,Malmö,data_engineer,2026-05-13T14:25:24,https://arbetsformedlingen.se/platsbanken/annonser/31037219
+SE,QLSE by Qgroup AB,Data Engineer till framåtlutat konsultbolag inom Data,Stockholm,data_engineer,2026-03-27T10:39:29,https://arbetsformedlingen.se/platsbanken/annonser/30811012
+SE,Qliro AB,Data Engineer,Stockholm,data_engineer,2026-04-20T13:51:29,https://arbetsformedlingen.se/platsbanken/annonser/30928987
+SE,Qred Bank AB,Data Engineer,Stockholm,data_engineer,2026-05-05T17:02:17,https://arbetsformedlingen.se/platsbanken/annonser/30998504
+SE,REGION STOCKHOLM,Data Engineer för medicinska datauttag,Stockholm,data_engineer,2026-05-07T15:08:42,https://arbetsformedlingen.se/platsbanken/annonser/31009632
+SE,SYNTRONIC AKTIEBOLAG,Erfaren Data Engineer inom cybersäkerhet (3 tjänster!),Göteborg,data_engineer,2026-05-28T13:29:47,https://arbetsformedlingen.se/platsbanken/annonser/31096846
+SE,Schibsted News Media AB,Data Engineer,Stockholm,data_engineer,2026-05-20T21:06:46,https://arbetsformedlingen.se/platsbanken/annonser/31062946
+SE,Schibsted News Media AB,Senior Data Engineer,Stockholm,data_engineer,2026-04-29T14:57:36,https://arbetsformedlingen.se/platsbanken/annonser/30974455
+SE,Semicon Service Nordic AB,Software Engineer  Fullstack / .NET (Robotics),,ml_engineer,2026-04-29T08:52:45,https://arbetsformedlingen.se/platsbanken/annonser/30970562
+SE,Silverspin AB,Data Engineer,Skövde,data_engineer,2026-04-29T08:23:50,https://arbetsformedlingen.se/platsbanken/annonser/30970312
+SE,Skill Kompetenspartner AB,Data Engineer till Siemens Energy,Finspång,data_engineer,2026-05-18T17:42:25,https://arbetsformedlingen.se/platsbanken/annonser/31050618
+SE,SkillHuset Sweden AB,Senior ML/AI Engineer ,Stockholm,ml_engineer,2026-05-06T16:37:11,https://arbetsformedlingen.se/platsbanken/annonser/31004690
+SE,Snusbolaget Norden AB,Data Engineer,Stockholm,data_engineer,2026-05-20T13:01:35,https://arbetsformedlingen.se/platsbanken/annonser/31060122
+SE,Socialstyrelsen,Dataingenjör (Data Engineer och/eller Analytics Engineer),Stockholm,data_engineer,2026-05-12T10:14:38,https://arbetsformedlingen.se/platsbanken/annonser/31026961
+SE,Stegra Boden AB,Data Engineer,Stockholm,data_engineer,2026-04-21T16:24:20,https://arbetsformedlingen.se/platsbanken/annonser/30937209
+SE,Sway Sourcing Sweden Aktiebolag,Junior Data Engineer – Malmö 🚆,Malmö,data_engineer,2026-05-28T12:11:57,https://arbetsformedlingen.se/platsbanken/annonser/31096160
+SE,Sway Sourcing Sweden Aktiebolag,Junior Data Engineer – Malmö 🚆,Malmö,data_engineer,2026-05-28T11:58:25,https://arbetsformedlingen.se/platsbanken/annonser/31096019
+SE,Sway Sourcing Sweden Aktiebolag,Junior Data Engineer – Malmö 🚆,Malmö,data_engineer,2026-05-28T11:19:46,https://arbetsformedlingen.se/platsbanken/annonser/31095311
+SE,Sway Sourcing Sweden Aktiebolag,Junior Data Engineer – Malmö 🚆,Malmö,data_engineer,2026-05-28T11:18:58,https://arbetsformedlingen.se/platsbanken/annonser/31095309
+SE,Sway Sourcing Sweden Aktiebolag,Junior Data Engineer – Malmö 🚆,Malmö,data_engineer,2026-05-28T11:17:21,https://arbetsformedlingen.se/platsbanken/annonser/31095313
+SE,Sway Sourcing Sweden Aktiebolag,Junior Data Engineer – Malmö 🚆,Malmö,data_engineer,2026-05-28T11:16:07,https://arbetsformedlingen.se/platsbanken/annonser/31095289
+SE,Sway Sourcing Sweden Aktiebolag,Junior Data Engineer – Malmö 🚆,Malmö,data_engineer,2026-05-28T11:15:33,https://arbetsformedlingen.se/platsbanken/annonser/31095285
+SE,Sway Sourcing Sweden Aktiebolag,Junior Data Engineer – Malmö 🚆,Malmö,data_engineer,2026-05-28T11:14:30,https://arbetsformedlingen.se/platsbanken/annonser/31095280
+SE,Sway Sourcing Sweden Aktiebolag,Junior Data Engineer – Malmö 🚆,Malmö,data_engineer,2026-05-28T11:08:22,https://arbetsformedlingen.se/platsbanken/annonser/31095199
+SE,Sway Sourcing Sweden Aktiebolag,Junior Data Engineer – Malmö 🚆,Malmö,data_engineer,2026-05-28T11:06:26,https://arbetsformedlingen.se/platsbanken/annonser/31095170
+SE,Sway Sourcing Sweden Aktiebolag,Junior Data Engineer – Malmö 🚆,Malmö,data_engineer,2026-05-28T11:05:51,https://arbetsformedlingen.se/platsbanken/annonser/31095162
+SE,SwedQ AB,Platform Engineer with AI experience,Stockholm,ml_engineer,2026-04-07T14:33:34,https://arbetsformedlingen.se/platsbanken/annonser/30869602
+SE,Techrytera AB,Data Engineer,Jönköping,data_engineer,2026-04-30T11:53:20,https://arbetsformedlingen.se/platsbanken/annonser/30979729
+SE,Techrytera AB,Data Engineer (Azure & Databricks),Stockholm,data_engineer,2026-05-18T10:16:18,https://arbetsformedlingen.se/platsbanken/annonser/31046130
+SE,Techrytera AB,Embedded Software Engineer,Lund,ml_engineer,2026-03-18T15:31:00,https://arbetsformedlingen.se/platsbanken/annonser/30766019
+SE,Techrytera AB,Senior AI/ML Engineer,Göteborg,ml_engineer,2026-04-23T15:32:32,https://arbetsformedlingen.se/platsbanken/annonser/30948201
+SE,Techrytera AB,"Software Engineer, Fullstack / .NET - Robotics",Göteborg,ml_engineer,2026-04-28T20:19:43,https://arbetsformedlingen.se/platsbanken/annonser/30969705
+SE,UTBETALNINGSMYNDIGHETEN,Data engineer,Stockholm,data_engineer,2026-05-12T15:58:12,https://arbetsformedlingen.se/platsbanken/annonser/31030862
+SE,Umain AB,AI Engineer,Stockholm,ml_engineer,2026-05-04T15:58:59,https://arbetsformedlingen.se/platsbanken/annonser/30991050
+SE,Unibap Space Solutions AB (publ),Software Engineer Space,Uppsala,ml_engineer,2026-05-18T15:11:40,https://arbetsformedlingen.se/platsbanken/annonser/31049295
+SE,Valley Recruitment AB,Scientific Software Engineer - Data Analysis & Algorithms at Gnothis AB,Stockholm,data_engineer,2026-04-01T10:59:41,https://arbetsformedlingen.se/platsbanken/annonser/30846722
+SE,Veritaz AB,Azure Data Engineer  17668,,data_engineer,2026-05-11T09:00:05,https://arbetsformedlingen.se/platsbanken/annonser/31019612
+SE,Veritaz AB,Senior Data Engineer  Analytics & Data Platforms  17504,,data_engineer,2026-05-02T12:05:15,https://arbetsformedlingen.se/platsbanken/annonser/30984228
+SE,Veritaz AB,"Data Engineer / Data Architect  Azure, Snowflake & Databricks  17586",,data_engineer,2026-05-06T11:38:50,https://arbetsformedlingen.se/platsbanken/annonser/31001928
+SE,Veritaz AB,Senior Data Engineer  ITFM Transformation & Data Modeling - 17377,,data_engineer,2026-04-26T12:24:15,https://arbetsformedlingen.se/platsbanken/annonser/30956921
+SE,Veritaz AB,Data Platform Engineer  17722,,data_engineer,2026-05-15T11:49:50,https://arbetsformedlingen.se/platsbanken/annonser/31041624
+SE,Veritaz AB,Data Platform Backend Engineer  17640,,data_engineer,2026-05-08T10:53:25,https://arbetsformedlingen.se/platsbanken/annonser/31013102
+SE,Veritaz AB,Data Platform Engineer  17941,,data_engineer,2026-05-29T11:04:15,https://arbetsformedlingen.se/platsbanken/annonser/31102542
+SE,Visma Spiris AB,Data Engineer till Spiris,Växjö,data_engineer,2026-05-18T16:34:10,https://arbetsformedlingen.se/platsbanken/annonser/31050265
